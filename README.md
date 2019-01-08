@@ -1,1 +1,3 @@
-Welcome to the Ask for Bitcoin issue tracking repo!
+Welcome to the Microlancer.io issue tracking repo!
+
+Thanks for reporting your issues here.
