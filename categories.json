@@ -1,0 +1,272 @@
+[
+    {
+        "categoryId": "visual",
+        "categoryName": "Visual",
+        "tags": [
+            "#visual"
+        ],
+        "sub": [
+            {
+                "categoryId": "graphic-design",
+                "categoryName": "Graphic design",
+                "tags": [
+                    "#graphic-design",
+                    "#gfx-design",
+                    "#gfx"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "art",
+                "categoryName": "Art",
+                "tags": [
+                    "#art"
+                ],
+                "sub": []
+            }
+        ]
+    },
+    {
+        "categoryId": "audio",
+        "categoryName": "Audio",
+        "tags": [
+            "#audio"
+        ],
+        "sub": [
+            {
+                "categoryId": "voiceover",
+                "categoryName": "Voiceover",
+                "tags": [
+                    "#voiceover"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "music",
+                "categoryName": "Music",
+                "tags": [
+                    "#music"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "sound-effects",
+                "categoryName": "Sound effects",
+                "tags": [
+                    "#sound-fx",
+                    "#sound-effect",
+                    "#sound-effects"
+                ],
+                "sub": []
+            }
+        ]
+    },
+    {
+        "categoryId": "writing",
+        "categoryName": "Writing",
+        "tags": [
+            "#writing"
+        ],
+        "sub": [
+            {
+                "categoryId": "translation",
+                "categoryName": "Translation",
+                "tags": [
+                    "#translation"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "creative-writing",
+                "categoryName": "Creative",
+                "tags": [
+                    "#creative",
+                    "#creative-writing"
+                ],
+                "sub": []
+            }
+        ]
+    },
+    {
+        "categoryId": "gaming",
+        "categoryName": "Gaming",
+        "tags": [
+            "#gaming"
+        ],
+        "sub": [
+            {
+                "categoryId": "game-training",
+                "categoryName": "Training",
+                "tags": [
+                    "#game-training"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "game-farming",
+                "categoryName": "Farming",
+                "tags": [
+                    "#game-farming"
+                ],
+                "sub": []
+            }
+        ]
+    },
+    {
+        "categoryId": "marketing",
+        "categoryName": "Marketing",
+        "tags": [
+            "#marketing"
+        ],
+        "sub": [
+            {
+                "categoryId": "social-media",
+                "categoryName": "Social media",
+                "tags": [
+                    "#social-media",
+                    "#twitter",
+                    "#facebook",
+                    "#youtube",
+                    "#telegram"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "advertising",
+                "categoryName": "Advertising",
+                "tags": [
+                    "#ads"
+                ],
+                "sub": []
+            }
+        ]
+    },
+    {
+        "categoryId": "education",
+        "categoryName": "Education",
+        "tags": [
+            "#education",
+            "#edu"
+        ],
+        "sub": [
+            {
+                "categoryId": "general",
+                "categoryName": "General",
+                "tags": [
+                    "#general-education",
+                    "#general-ed"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "math",
+                "categoryName": "Mathematics",
+                "tags": [
+                    "#math",
+                    "#mathematics"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "physics",
+                "categoryName": "Physics",
+                "tags": [
+                    "#physics",
+                    "#physics"
+                ],
+                "sub": []
+            }
+        ]
+    },
+    {
+        "categoryId": "tech",
+        "categoryName": "Technology",
+        "tags": [
+            "#tech",
+            "#technology"
+        ],
+        "sub": [
+            {
+                "categoryId": "hardware",
+                "categoryName": "Hardware",
+                "tags": [
+                    "#hardware"
+                ],
+                "sub": []
+            },
+            {
+                "categoryId": "software",
+                "categoryName": "Software",
+                "tags": [
+                    "#software"
+                ],
+                "sub": [
+                    {
+                        "categoryId": "programming",
+                        "categoryName": "Programming",
+                        "tags": [
+                            "#coding",
+                            "#code",
+                            "#programming"
+                        ],
+                        "sub": []
+                    },
+                    {
+                        "categoryId": "configuration",
+                        "categoryName": "Setup and install",
+                        "tags": [
+                            "#config",
+                            "#setup",
+                            "#install"
+                        ],
+                        "sub": []
+                    }
+                ]
+            },
+            {
+                "categoryId": "finance",
+                "categoryName": "Financial",
+                "tags": [
+                    "#finance",
+                    "#financial"
+                ],
+                "sub": [
+                    {
+                        "categoryId": "bitcoin",
+                        "categoryName": "Bitcoin",
+                        "tags": [
+                            "#bitcoin"
+                        ],
+                        "sub": [
+                            {
+                                "categoryId": "lightning-network",
+                                "categoryName": "Lightning Network",
+                                "tags": [
+                                    "#lightning",
+                                    "#lightning-network"
+                                ],
+                                "sub": []
+                            },
+                            {
+                                "categoryId": "bitcoin-mining",
+                                "categoryName": "Mining",
+                                "tags": [
+                                    "#mining"
+                                ],
+                                "sub": []
+                            }
+                        ]
+                    },
+                    {
+                        "categoryId": "altcoin",
+                        "categoryName": "Altcoin",
+                        "tags": [
+                            "#altcoin"
+                        ],
+                        "sub": []
+                    }
+                ]
+            }
+        ]
+    }
+]
