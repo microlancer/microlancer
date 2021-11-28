@@ -1,0 +1,10 @@
+{
+    "lang": "ur-PK",
+    "label": "اردو",
+    "data": {
+        "menu.signup": "سائن اپ",
+        "menu.tasks": "ٹاسک",
+        "menu.services": "خدمات",
+        "menu.login": "لاگ ان کریں"
+    }
+}

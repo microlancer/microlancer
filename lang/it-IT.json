@@ -1,0 +1,10 @@
+{
+    "lang": "it-IT",
+    "label": "Italiano",
+    "data": {
+        "menu.signup": "Iscriviti",
+        "menu.tasks": "Compiti",
+        "menu.services": "Servizi",
+        "menu.login": "Login"
+    }
+}
