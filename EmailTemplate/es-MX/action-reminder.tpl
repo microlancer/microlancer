@@ -1,7 +1,7 @@
 
-Hi {{username}}! This is a reminder to let you know we're waiting for your response on the following offers:
+¡Hola {{username}}! Este es un recordatorio para hacerle saber que estamos esperando su respuesta sobre las siguientes ofertas:
 
 {{message}}
 
-Thank you for using Microlancer.io!
+¡Gracias por usar Microlancer.io!
 
