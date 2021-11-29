@@ -1,9 +1,9 @@
-Congratulations, you received an affiliate reward for a completed task!
-Thank you for helping us grow.
+¡Felicitaciones, recibió una recompensa de afiliado por una tarea completada!
+Gracias por ayudarnos a crecer.
 
-Amount: {{amount}} sat
+Monto: {{amount}} sat
 
-To withdraw, visit your withdrawal page here:
+Para retirar, visite su página de retiro aquí:
 {{withdrawLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
