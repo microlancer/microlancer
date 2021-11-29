@@ -1,18 +1,18 @@
-An offer has been mutually cancelled.
+La oferta ha sido cancelada mutuamente.
 
-Post: {{postTitle}}
+Publicación: {{postTitle}}
 
-Offer from: {{offerUsername}}
-Offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of asking price)
+Oferta de: {{offerUsername}}
+Importe de la oferta: {{offerAmount}} satoshi ({{offerPercent}}% del precio de venta)
 
-Message:
+Mensaje:
 
 {{message}}
 
-No action is needed at this time.
+No es necesario realizar ninguna acción en este momento.
 
-Better luck on future tasks!
+¡Mejor suerte en futuras tareas!
 
 {{postLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
