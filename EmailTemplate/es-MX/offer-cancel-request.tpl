@@ -1,25 +1,25 @@
-An offer has been requested to be cancelled, rather than completed.
+Se ha solicitado la cancelación de una oferta, en lugar de completarse.
 
-For escrow tasks, you have 5 days to open a dispute by contacting support. Be sure you understand the reason for cancellation, and agree to it. If your work is already been started or completed, you have the right to open a dispute and request for arbitration. If a dispute is not opened within 5 days, the cancellation will automatically be accepted and any funds in escrow will be returned to the task owner.
+Para las tareas de depósito en garantía, tiene 5 días para abrir una disputa comunicándose con el soporte. Asegúrese de comprender el motivo de la cancelación y de aceptarlo. Si su trabajo ya ha comenzado o completado, tiene derecho a abrir una disputa y solicitar un arbitraje. Si no se abre una disputa dentro de los 5 días, la cancelación se aceptará automáticamente y los fondos en garantía se devolverán al propietario de la tarea.
 
-For non-escrow tasks, there is no dispute arbitration.
+Para las tareas que no son de custodia, no hay arbitraje de disputas.
 
-Post: {{postTitle}}
-Link to post: {{postLink}}
+Publicación: {{postTitle}}
+Enlace a la publicación: {{postLink}}
 
-Offer from: {{offerUsername}}
-Offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of asking price)
+Oferta de: {{offerUsername}}
+Importe de la oferta: {{offerAmount}} satoshi ({{offerPercent}}% del precio de venta)
 
-Message:
+Mensaje:
 
 {{message}}
 
 --------------------------------------------------
 
-If you are OK with cancelling this task, simply click the "Approve cancellation" button on the offer page. Otherwise, please open a new support ticket by contacting Microlancer.io at {{contactLink}} to let us help arbitrate the issue.
+Si está de acuerdo con cancelar esta tarea, simplemente haga clic en el botón "Aprobar cancelación" en la página de la oferta. De lo contrario, abra un nuevo ticket de soporte comunicándose con Microlancer.io en {{contactLink}} para permitirnos ayudar a arbitrar el problema.
 
-Better luck on future tasks!
+¡Mejor suerte en futuras tareas!
 
 {{postLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
