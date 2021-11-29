@@ -1,4 +1,4 @@
-This is a notification that your security questions for {{siteName}} have been changed.
-If this was not you, please contact {{supportEmail}} right away.
+Esta es una notificación de que se han cambiado sus preguntas de seguridad para {{siteName}}.
+Si no fue usted, comuníquese con {{supportEmail}} de inmediato.
 
-Thank you.
+Gracias.
