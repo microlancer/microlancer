@@ -1,6 +1,6 @@
 
-Please reset your password by clicking the link below:
+Restablezca su contraseña haciendo clic en el enlace a continuación:
 
 {{passwordResetLink}}
 
-If you did not request this reset, please ignore this email.
+Si no solicitó este restablecimiento, ignore este correo electrónico.
