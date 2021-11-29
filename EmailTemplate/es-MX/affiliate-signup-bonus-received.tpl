@@ -1,9 +1,9 @@
-Congratulations, you received an affiliate signup reward!
-Thank you for helping us grow.
+¡Felicitaciones, recibió una recompensa de registro de afiliado!
+Gracias por ayudarnos a crecer.
 
-Amount: {{amount}} sat
+Monto: {{amount}} sat
 
-To withdraw, visit your withdrawal page here:
+Para retirar, visite su página de retiro aquí:
 {{withdrawLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
