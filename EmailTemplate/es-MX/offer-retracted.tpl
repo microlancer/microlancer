@@ -1,15 +1,15 @@
-Sorry, but it seems they changed their mind!
-An offer has been retracted from your post.
+Lo sentimos, pero parece que han cambiado de opinión.
+Se ha retirado una oferta de su publicación.
 
-Post: {{postTitle}}
+Publicación: {{postTitle}}
 
-Offer from: {{offerUsername}}
-Offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of your price)
+Oferta de: {{offerUsername}}
+Importe de la oferta: {{offerAmount}} satoshi ({{offerPercent}}% de su precio)
 
-No action is needed at this time.
+No es necesario realizar ninguna acción en este momento.
 
-Good luck!
+¡Buena suerte!
 
 {{postLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
