@@ -1,13 +1,13 @@
-A public comment has been posted regarding the following post.
+Se ha publicado un comentario público con respecto a la siguiente publicación.
 
-Post: {{postTitle}}
+Publicación: {{postTitle}}
 
-Message from: {{fromUsername}}
-Message: 
+Mensaje de: {{fromUsername}}
+Mensaje:
 
 {{message}}
 
-To reply, visit your listing here:
+Para responder, visite su listado aquí:
 {{postLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
