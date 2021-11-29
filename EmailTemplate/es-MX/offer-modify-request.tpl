@@ -1,28 +1,26 @@
-A change to the offer amount has been requested.
+Puede optar por aceptar o rechazar este cambio.
 
-You can choose to accept, or reject this change.
+Si ya se aceptó un monto de oferta anterior y no está de acuerdo con el
+cambio, puede abrir una disputa y solicitar un arbitraje. Si tu trabajo es
+ya se ha iniciado o completado, tiene derecho a abrir una disputa y
+solicitud de arbitraje. Si no se abre una disputa dentro de los 5 días, el
+el cambio se rechazará automáticamente y se mantendrá la cantidad original.
 
-If a previous offer amount was already accepted, and you do not agree to the
-change, you may open a dispute and request for arbitration. If your work is 
-already been started or completed, you have the right to open a dispute and 
-request for arbitration. If a dispute is not opened within 5 days, the 
-change will automatically be rejected and the original amount will remain.
+Para las tareas que no son de custodia, no hay arbitraje de disputas.
 
-For non-escrow tasks, there is no dispute arbitration.
+Publicación: {{postTitle}}
+Enlace a la publicación: {{postLink}}
 
-Post: {{postTitle}}
-Link to post: {{postLink}}
+Oferta de: {{offerUsername}}
 
-Offer from: {{offerUsername}}
+Importe de la oferta original: {{offerAmount}} satoshi ({{offerPercent}}% del precio de venta)
 
-Original offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of asking price)
+Importe de la oferta nueva (propuesta): {{definedOfferAmount}} satoshi ({{givenOfferPercent}}% del precio de venta)
 
-New (proposed) offer amount: {{proposedOfferAmount}} satoshi ({{proposedOfferPercent}}% of asking price)
-
-Message:
+Mensaje:
 
 {{message}}
 
 {{postLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
