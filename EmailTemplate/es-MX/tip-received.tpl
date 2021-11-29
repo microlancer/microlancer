@@ -1,13 +1,13 @@
-Congratulations, you received a tip! Who doesn't like free Bitcoin?
+¡Felicitaciones, recibió una propina! ¿A quién no le gusta Bitcoin gratis?
 
-Amount: {{amount}} sat
+Cantidad: {{amount}} sat
 
-Tip from: {{fromUsername}}
-Message: 
+Propina de: {{fromUsername}}
+Mensaje: 
 
 {{message}}
 
-To withdraw, visit your withdrawal page here:
+Para retirar, visite su página de retiro aquí:
 {{withdrawLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
