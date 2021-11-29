@@ -1,17 +1,17 @@
-{{byUsername}} has submitted a review regarding the following post.
+{{byUsername}} ha enviado una reseña sobre la siguiente publicación.
 
-Post: {{postTitle}}
+Publicación: {{postTitle}}
 
-Review from: {{byUsername}}
-Feedback: 
+Reseña de: {{byUsername}}
+Reseña:
 
 {{feedback}}
 
-Rating:
+Clasificación:
 
-{{stars}} stars
+{{stars}} estrellas
 
-Visit your listing here:
+Visite su listado aquí:
 {{postLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
