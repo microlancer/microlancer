@@ -1,14 +1,14 @@
-Your task has been marked as delivered! Please check that the work
-was received and confirm it on listing page.
+¡Tu tarea ha sido marcada como entregada! Por favor, compruebe que el trabajo
+fue recibido y confírmelo en la página de listado.
 
 {{onceConfirmed}}
 
-Post: {{postTitle}}
-Offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of your asking price)
-Message:
+Publicación: {{postTitle}}
+Importe de la oferta: {{offerAmount}} satoshi ({{offerPercent}}% de su precio de venta)
+Mensaje:
 
 {{message}}
 
 {{postLink}}
 
-Sent at {{date}}
+Enviado el {{date}}
