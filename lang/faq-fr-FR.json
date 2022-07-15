@@ -1,0 +1,249 @@
+[
+    {
+      "heading": "What is Microlancer.io?",
+      "anchor": "what-is-this",
+      "body": "<i>Microlancer.io</i> is a way to pay or get paid doing small tasks, or <i>microtasks</i>, to earn <a href=\"https://bitcoin.org\">Bitcoin</a> - a digital currency. Bitcoin can be exchanged for US dollars, Euros, and many other national currencies.",
+      "topics": []
+    },
+    {
+      "heading": "Basic usage",
+      "anchor": "usage",
+      "body": "",
+      "topics": [
+        {
+          "heading": "I see a task I can do. How do I start?",
+          "anchor": "how-to-get-started",
+          "body": "To perform a task, make an offer on the listing page. You can negotiate a higher payment (or even lower, if you're willing!) than the one being asked. You'll be notified if it is accepted or declined. If it is accepted, payment is in escrow and you can go ahead and perform the task!",
+          "topics": []
+        },
+        {
+          "heading": "I finished my task, now what?",
+          "anchor": "task-complete",
+          "body": "Back on the listing page, mark the task as complete. This will notify the asker, and they will verify your work. If it's valid, they will release the payment. You can then withdraw your earnings!",
+          "topics": []
+        },
+        {
+          "heading": "I need something done. How do I post a task?",
+          "anchor": "create-task",
+          "body": "Go to the new task page, and submit the task you wish to have done. Be sure to provide a good set of tags to help people find your task. If anyone is subscribed to a tag, they will be notified immediately of your new task.",
+          "topics": []
+        },
+        {
+          "heading": "I'm disagreeing on a task and not getting paid. What should I do?",
+          "anchor": "dispute",
+          "body": "If there is any dispute, please contact support immediately. We will determine if the work was done and decide how the funds in escrow shall be divided. All decisions made by Microlancer.io are final, per the terms and conditions agreement.",
+          "topics": []
+        },
+        {
+          "heading": "What kinds of tasks can I post here?",
+          "anchor": "kind-of-tasks",
+          "body": "You can post any kind of task, question, or any kind of request on Microlancer.io. The tasks can be very tiny (micro) or large-sized such as contract projects. But, we do encourage breaking up large projects into smaller subtasks to make it easy for multiple people to work on them! It's up to you how you want to use Microlancer.io!",
+          "topics": []
+        },
+        {
+          "heading": "How does standard escrow work?",
+          "anchor": "standard-escrow",
+          "body": "Standard escrow protects both the asker, and tasker. Tasks secured by standard escrow are protected by collecting the funds for payout in advance from the asker, before the work is started. <b>It is important to start work only AFTER an offer is accepted!</b> If an offer is accepted, the funds are held by Microlancer.io and only released if the asker accepts the results of the tasker's work OR if there is a dispute. In the case of a dispute, such as the tasker's results not meeting the requirements, or the asker failing to pay on properly delivered results, Microlancer.io will arbitrate and will distribute the funds in escrow in a way deemed suitable by Microlancer.io. The decisions made by Microlancer.io are final. In addition to using escrow, we recommend carefully choosing who to work with based on their reputation and reviews.",
+          "topics": []
+        },
+        {
+          "heading": "How does a non-escrow peer-to-peer payment work?",
+          "anchor": "non-escrow",
+          "body": "Tasks using non-escrow peer-to-peer payment are the responsibility of the asker and tasker to coordinate how payment will happen outside of Microlancer.io. There is risk of non-payment, and in such cases, Microlancer.io will not be able to arbitrate: <b>so participate in non-escrow tasks with great caution!</b> The advantage of non-escrow is that Microlancer.io does not collect any fees from the task.",
+          "topics": []
+        },
+        {
+          "heading": "What is an in-proposal offer?",
+          "anchor": "what-is-offer-proposed",
+          "body": "A proposed offer is a tasker's proposal to do the task (including a pitch and amount) submitted to an asker. The offer in this state is waiting for a response from the asker to either accept or reject the proposal. It is still in a negotiation phase, and the work should not be started yet.",
+          "topics": []
+        },
+        {
+          "heading": "What is a accepted offer?",
+          "anchor": "what-is-offer-accepted",
+          "body": "An accepted (or work-in-progress) offer has been approved by the asker to go ahead and start working on the task. If the task is using the standard escrow option, the offer is ONLY approved when the asker has sent payment to Microlancer and has 100% funded the escrow. At this point, it is safe for the tasker to begin work. For peer-to-peer (non-escrow) tasks, this does not apply. The offer in this state is waiting for the work to be delivered from the tasker to the asker.",
+          "topics": []
+        },
+        {
+          "heading": "What is a delivered offer?",
+          "anchor": "what-is-offer-delivered",
+          "body": "A delivered (or in-review) offer is when the work for the task has been completed by the tasker, following all the steps or instructions. At this point, the tasker should have communicated or submitted the results of the work to the asker. The offer in this state is now waiting for the tasker's work to be verified by the asker.",
+          "topics": []
+        },
+        {
+          "heading": "What is a completed offer?",
+          "anchor": "what-is-offer-confirmed",
+          "body": "A completed (or delivery verified) offer is when the results of the work done by the tasker has been verified to be satisfactory to the asker. This step confirms that the work was done per the requirements. If the task is using the standard escrow option, the escrow payment has been released at this point, and the tasker is paid. The funds should now appear in the tasker's account balance for withdrawal. For peer-to-peer (non-escrow) tasks, this does not apply. The offer in this state is ended and closed.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Buying services",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "How do I buy/order services?",
+          "anchor": "how-to-buy",
+          "body": "You can buy services by placing an order. When you first place an order, you will need to receive confirmation about the work details from the seller. Once you are satisfied with the plan, you can accept their offer and send payment into escrow. After they deliver the service, you should mark the task as delivered to release payment so they can get paid.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Earnings and payments",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "What is Bitcoin?",
+          "anchor": "what-is-bitcoin",
+          "body": "<i class=\"fab fa-bitcoin\"></i> Bitcoin is peer-to-peer digital money that works without 3rd parties such as banks or credit cards. You can learn more at <a href=\"https://bitcoin.org/\">Bitcoin.org</a>.",
+          "topics": []
+        },
+        {
+          "heading": "What is the Lightning Network?",
+          "anchor": "what-is-lightning",
+          "body": "The <i class=\"fas fa-bolt\"></i> Lightning Network is a secure, real-time system for transferring very small amounts of Bitcoin (micropayments). Normal on-chain Bitcoin transactions can have high fees and long confirmation times. Lightning Network makes it possible to have instant Bitcoin confirmations and extremely low (less than a penny) fees. That makes it perfect for microtasks, and the reason <i>Microlancer.io</i> supports the use of Lightning Network transactions for Bitcoin.",
+          "topics": []
+        },
+        {
+          "heading": "Is there a minimum I need to earn to withdraw?",
+          "anchor": "min-withdraw",
+          "body": "No, there is no minimum earnings you need to have to withdraw. You can withdraw as little as 1 satoshi.",
+          "topics": []
+        },
+        {
+          "heading": "Are there any fees to withdraw?",
+          "anchor": "fee-withdraw",
+          "body": "No, there are no fees when you withdraw. However, be aware that creating and closing channels to finalize may cost on-chain fees charged by the Bitcoin network.",
+          "topics": []
+        },
+        {
+          "heading": "How do I withdraw my Bitcoin?",
+          "anchor": "withdraw-how",
+          "body": "To withdraw your earnings, simply go to the withdrawal page on your account. You will need to provide what is known as a <i>Lightning Invoice</i> which is generated by your wallet software. When you submit the invoice to the system, it will be paid to you and your balance should appear on your wallet.",
+          "topics": []
+        },
+        {
+          "heading": "What is LNURL-withdraw?",
+          "anchor": "withdraw-lnurl",
+          "body": "LNURL-withdraw is a feature available on <a href=\"https://github.com/fiatjaf/awesome-lnurl#wallets\" target=\"_blank\">supported Lightning wallets</a> that simplify the withdrawing process. You can withdraw without copy-and-pasting invoices, simply by scanning the QR code or clicking the `Open in wallet` button.",
+          "topics": []
+        },
+        {
+          "heading": "How do I pay a Lightning invoice?",
+          "anchor": "how-to-pay",
+          "body": "To pay a Bitcoin lightning invoice, you will need a Bitcoin wallet that supports lightning network. It is a new technology, but there are several beta wallet choices (see the next question). Once you have a wallet, you will need to either paste the LN invoice into the wallet, scan the LN invoice QR code, or click the `Open in wallet` button. If you have any questions or issues with payment, please feel free to contact support (live chat, discord, or email).",
+          "topics": []
+        },
+        {
+          "heading": "Which wallet should I use?",
+          "anchor": "bitcoin-wallet",
+          "body": "There are many different wallets out there, but Lightning Network is fairly new technology so many of them are still in beta. If you're on Android, we recommend using <a href=\"https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en_US\">Eclair</a> or <a href=\"http://lightning-wallet.com\">BLW</a>. A large list of wallets can be found at <a href=\"https://lightningnetworkstores.com/wallets\">lightningnetworkstores.com/wallets</a> and <a href=\"https://zigzag.io/#/wallets\">zigzag.io/#/wallets</a>. Be sure to choose MAINNET wallets for use with Microlancer. Do research, and try them at your own risk!",
+          "topics": []
+        },
+        {
+          "heading": "What if I want on-chain Bitcoin instead of a Lightning Network balance?",
+          "anchor": "swap-btc-ln",
+          "body": "There are several services out there to help you convert the Lightning Network balance on Microlancer to on-chain Bitcoin. They usually come with various fees. Please check out <a href=\"https://zigzag.io/\">ZigZag.io</a> and <a href=\"https://boltz.exchange\">Boltz Exchange</a>. Do research, and try them at your own risk!",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Category alerts",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "What is a favorite?",
+          "anchor": "favorite",
+          "body": "You can mark any category as a favorite, by clicking the star icon next to the category name. If any new task is posted that matches one of your favorites, you will immediately be notified. This gives you a better chance of submitting an offer quickly.",
+          "topics": []
+        },
+        {
+          "heading": "How do I remove a favorite?",
+          "anchor": "remove-favorite",
+          "body": "To remove a favorite and stop receiving alerts, simply go to the topic name and de-select the star icon.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Multiple fulfillment",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "What is a repeatable task?",
+          "anchor": "repeatable",
+          "body": "If a task can be fulfilled multiple times, it can be created as a repeatable task (under more options). This means that the task will remain available to offers even after an offer is accepted.",
+          "topics": []
+        },
+        {
+          "heading": "How do I stop receiving offers on my repeatable task?",
+          "anchor": "stop-repeatable",
+          "body": "If you have active offers (offers in progress), you cannot close your task but you can hide it. Once it's hidden, you will no longer receive any new offers for your task. Once all in-progress offers are completed, then you can choose to close the task.",
+          "topics": []
+        },
+        {
+          "heading": "What is a repeatable per user task?",
+          "amchor": "repeatable-per-user",
+          "body": "If a task is repeatable per user, that means it can be fulfilled multiple times but only once per unique user in the system. This is useful in situations where you don't want the same user fulfilling your task over and over again.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Boosts",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "What is a Boost?",
+          "anchor": "what-is-boost",
+          "body": "You can boost your task listings (shown under <i>More task options</i> on the task page to have your listing shown higher on listing pages.",
+          "topics": []
+        },
+        {
+          "heading": "How are boosted listings ordered/sorted?",
+          "anchor": "boost-sorting",
+          "body": "The listings are ordered by boost amount first, and for any listings tied by boost amount (including unboosted listings) they are ordered by recent activity. Your boost applies to every category or search result, so even if you are not listed high on the front page, you may be listed high on sub-categories.",
+          "topics": []
+        },
+        {
+          "heading": "How much should I boost?",
+          "anchor": "boost-amount",
+          "body": "You should boost the amount you are comforable with. Note, this amount is not related to the task price, and the boost amount is not earned by the tasker. You can decide how much to boost by comparing the boost amount of other listings.",
+          "topics": []
+        },
+        {
+          "heading": "How long do boosts last?",
+          "anchor": "boost-time",
+          "body": "Boosts will expire after 30 days from the boosted date. If you have more than one boost, each amount will be valid for 30 days starting from each individual boost date.",
+          "topics": []
+        },
+        {
+          "heading": "How do I check the boost amount of other listings?",
+          "anchor": "boost-check",
+          "body": "You can check the boost amount by hovering over the rocket icon <i class=\"fa fa-rocket\" style=\"color:orange\" title=\"This listing is boosted by 200 sat(s)\"></i> on the listing.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Affiliates",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "Is there a Microlancer.io Affiliate Program?",
+          "anchor": "affiliates",
+          "body": "Currently there is no affiliate program. We may have one in the future, but the challenge is that fees on the site are so low that there is not much earning potential for affiliates.",
+          "topics": []
+        }
+      ]
+    }
+  ]
