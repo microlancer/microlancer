@@ -7,9 +7,22 @@ We need YOUR help translating Microlancer! Please sign up here:
 https://microlancer.io/task/view/3885
 
 Progess:
-* [ ] en-US English
-* [ ] es-MX Espanol (Mexico)
-* [ ] de-DE German (Germany)
+* [x] en-US English (United States)
+* [x] es-MX Español (México)
+* [x] de-DE Deutsch (Deutschland)
+* [ ] fr-FR Français (France)
+* [ ] it-IT Italiano (Italia)
+* [ ] ja-JP 日本語 (日本)
+* [ ] nb-NO Bokmål (Norsk)
+* [ ] nl-NL Nederlandsk (Nederland)
+* [ ] pt-BR Português (Brasil)
+* [ ] ru-RU Pусски (России)
+* [ ] uk-UA Yкраїнською (України)
+* [ ] sr-SR Cрпски (Србије)
+* [ ] tr-TR Türkiye (Türkçe)
+* [ ] hi-IN हिंदी (भारत)
+* [ ] ur-PK اردو (پاکستان)
+* [ ] zh-CN 中文（中国）
 
 ## Found a bug on Microlancer?
 
