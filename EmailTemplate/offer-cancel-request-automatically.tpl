@@ -1,4 +1,4 @@
-An offer has been requested to be canceled, rather than completed.
+Due to inactivity for 8 weeks, an offer has been automatically been marked to be canceled, rather than completed.
 
 For escrow tasks, you have 5 days to open a dispute by contacting support. Be sure you understand the reason for cancellation, and agree to it. If your work is already been started or completed, you have the right to open a dispute and request for arbitration. If a dispute is not opened within 5 days, the cancellation will automatically be accepted and any funds in escrow will be returned to the task owner.
 

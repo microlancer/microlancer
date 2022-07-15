@@ -1,4 +1,4 @@
-An offer has been mutually cancelled.
+An offer has been mutually canceled.
 
 Post: {{postTitle}}
 

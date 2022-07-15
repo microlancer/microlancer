@@ -1,0 +1,249 @@
+[
+    {
+      "heading": "Was ist Microlancer.io?",
+      "anchor": "what-is-this",
+      "body": "<i>Microlancer.io</i> ist eine Möglichkeit, für kleine Tasks oder <i>Mikrotasks</i> zu bezahlen oder bezahlt zu werden, um <a href=\"https://bitcoin.org\"> zu verdienen Bitcoin</a> - eine digitale Währung. Bitcoin kann gegen US-Dollar, Euro und viele andere Landeswährungen eingetauscht werden.",
+      "topics": []
+    },
+    {
+      "heading": "Grundlegende Verwendung",
+      "anchor": "usage",
+      "body": "",
+      "topics": [
+        {
+          "heading": "Ich sehe eine Task, die ich erledigen kann. Wie fange ich an?",
+          "anchor": "how-to-get-started",
+          "body": "Um eine Task zu erledigen, erstellst du ein Angebot auf der Auflistungsseite. Du kannst eine höhere Zahlung (oder sogar eine niedrigere, wenn du dazu bereit bist!) als die verlangte aushandeln. Du wirst benachrichtigt, wenn es akzeptiert oder abgelehnt wird. Wenn es akzeptiert wird, ist die Zahlung treuhänderisch und du kannst fortfahren und die Task ausführen!",
+          "topics": []
+        },
+        {
+          "heading": "Ich habe meine Task erledigt, was nun?",
+          "anchor": "task-complete",
+          "body": "Markiere die Task auf der Auflistungsseite als abgeschlossen. Dadurch wird der Fragesteller benachrichtigt und er wird deine Arbeit überprüfen. Wenn es gültig ist, wird die Zahlung freigegeben. Du kannst dann deine Einnahmen abheben!",
+          "topics": []
+        },
+        {
+          "heading": "Ich muss etwas erledigen. Wie poste ich eine Task?",
+          "anchor": "create-task",
+          "body": "Gehe zur Seite „Neue Task und übermitteln Sie die Task, die du erledigt haben möchtest. Stelle sicher, dass du einen guten Satz von Tags bereitstellst, damit die Leute deine Task finden können. Wenn jemand einen Tag abonniert hat, wird er sofort über deine neue Task benachrichtigt.",
+          "topics": []
+        },
+        {
+          "heading": "Ich bin bei einer Task anderer Meinung und werde nicht bezahlt. Was sollte ich tun?",
+          "anchor": "dispute",
+          "body": "Bei Streitigkeiten wende dich bitte umgehend an den Support. Wir werden feststellen, ob die Arbeit erledigt wurde, und entscheiden, wie die hinterlegten Gelder aufgeteilt werden. Alle von Microlancer.io getroffenen Entscheidungen sind gemäß den Allgemeinen Geschäftsbedingungen endgültig.",
+          "topics": []
+        },
+        {
+          "heading": "Welche Arten von Tasks kann ich hier posten?",
+          "anchor": "kind-of-tasks",
+          "body": "Du kannst jede Art von Task, Frage oder Anfrage auf Microlancer.io posten. Die Tasks können sehr klein (Mikro) oder groß wie Auftragsprojekte sein. Wir empfehlen jedoch, große Projekte in kleinere Untertasks aufzuteilen, damit mehrere Personen problemlos daran arbeiten können! Es liegt an dir, wie du Microlancer.io nutzen möchtest!",
+          "topics": []
+        },
+        {
+          "heading": "Wie funktioniert Standard-Escrow?",
+          "anchor": "standard-escrow",
+          "body": "Standardhinterlegung schützt sowohl den Fragesteller als auch den Tasker. Tasks, die durch Standard-Treuhandkonto gesichert sind, werden geschützt, indem die Gelder für die Auszahlung im Voraus vom Fragesteller eingezogen werden, bevor die Arbeit begonnen wird. <b>Es ist wichtig, mit der Arbeit erst zu beginnen, NACHDEM ein Angebot angenommen wurde!</b> Wenn ein Angebot angenommen wird, werden die Gelder von Microlancer.io gehalten und nur freigegeben, wenn der Fragesteller die Ergebnisse der Arbeit des Taskers akzeptiert ODER falls vorhanden ist ein Streit. Im Falle eines Streits, beispielsweise wenn die Ergebnisse des Taskers nicht den Anforderungen entsprechen oder der Fragesteller die ordnungsgemäß gelieferten Ergebnisse nicht bezahlt, wird Microlancer.io schlichten und die Escrow hinterlegten Gelder auf eine von Microlancer.io als geeignet erachtete Weise verteilen. Die von Microlancer.io getroffenen Entscheidungen sind endgültig. Zusätzlich zur Verwendung von Escrow empfehlen wir, sorgfältig auszuwählen, mit wem du zusammenarbeiten möchtest, basierend auf deinem Ruf und deinen Bewertungen.",
+          "topics": []
+        },
+        {
+          "heading": "Wie funktioniert eine nicht Escrow Peer-to-Peer-Zahlung?",
+          "anchor": "non-escrow",
+          "body": "Tasks, die Peer-to-Peer-Zahlungen ohne Escrow verwenden, liegen in der Verantwortung des Fragestellers und Taskers, um zu koordinieren, wie die Zahlung außerhalb von Microlancer.io erfolgt. Es besteht das Risiko der Nichtzahlung, und in solchen Fällen kann Microlancer.io nicht schlichten: <b>Beteilige dich also mit großer Vorsicht an nicht hinterlegten Tasks!</b> Der Vorteil von nicht hinterlegten Tasks ist, dass Microlancer.io keine Gebühren aus der Task einzieht.",
+          "topics": []
+        },
+        {
+          "heading": "Was ist ein In-Proposal-Angebot?",
+          "anchor": "what-is-offer-proposed",
+          "body": "Ein vorgeschlagenes Angebot ist der Vorschlag eines Taskers, die Task zu erledigen (einschließlich eines Pitchs und eines Betrags), der einem Fragesteller vorgelegt wird. Das Angebot in diesem Zustand wartet auf eine Antwort des Fragestellers, um das Angebot entweder anzunehmen oder abzulehnen. Es befindet sich noch in der Verhandlungsphase, die Arbeiten sollen noch nicht begonnen werden.",
+          "topics": []
+        },
+        {
+          "heading": "Was ist ein akzeptiertes Angebot?",
+          "anchor": "what-is-offer-accepted",
+          "body": "Ein angenommenes (oder laufendes) Angebot wurde vom Fragesteller genehmigt, um mit der Arbeit an der Task zu beginnen. Wenn die Task die standardmäßige Hinterlegungsoption verwendet, wird das Angebot NUR genehmigt, wenn der Fragesteller die Zahlung an Microlancer gesendet und die Hinterlegung zu 100 % finanziert hat. An diesem Punkt kann der Tasker sicher mit der Arbeit beginnen. Für Peer-to-Peer-Tasks (nicht hinterlegt) gilt dies nicht. Das Angebot in diesem Zustand wartet darauf, dass die Arbeit vom Tasker an den Asker geliefert wird.",
+          "topics": []
+        },
+        {
+          "heading": "Was ist ein geliefertes Angebot?",
+          "anchor": "what-is-offer-delivered",
+          "body": "Ein geliefertes (oder in Prüfung befindliches) Angebot liegt vor, wenn die Arbeit für die Task vom Tasker abgeschlossen wurde und alle Schritte oder Anweisungen befolgt wurden. An dieser Stelle sollte der Tasker dem Fragesteller die Ergebnisse der Arbeit mitgeteilt bzw. vorgelegt haben. Das Angebot in diesem Zustand wartet nun darauf, dass die Arbeit des Taskers durch den Asker verifiziert wird.",
+          "topics": []
+        },
+        {
+          "heading": "Was ist ein abgeschlossenes Angebot?",
+          "anchor": "what-is-offer-confirmed",
+          "body": "Ein abgeschlossenes (oder zustellungsgeprüftes) Angebot liegt vor, wenn die Ergebnisse der vom Tasker geleisteten Arbeit für den Fragesteller als zufriedenstellend verifiziert wurden. Dieser Schritt bestätigt, dass die Arbeit gemäß den Anforderungen durchgeführt wurde. Wenn die Task die standardmäßige Treuhandoption verwendet, wurde die Treuhandzahlung an dieser Stelle freigegeben und der Tasker wird bezahlt. Das Geld sollte nun im Kontostand des Taskers zur Auszahlung erscheinen. Für Peer-to-Peer-Tasks (nicht hinterlegt) gilt dies nicht. Das Angebot in diesem Zustand ist beendet und geschlossen.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Services kaufen",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "Wie kaufe/bestelle ich Services?",
+          "anchor": "how-to-buy",
+          "body": "Du kannst Services kaufen, indem du eine Bestellung aufgibst. Wenn du zum ersten Mal eine Bestellung aufgibst, musst du vom Verkäufer eine Bestätigung über die Arbeitsdetails erhalten. Sobald du mit dem Plan zufrieden bist, kannst su das Angebot annehmen und die Zahlung an ein Treuhandkonto senden. Nachdem du den Service erbracht hast, solltest due die Task als geliefert markieren, um die Zahlung freizugeben, damit sie bezahlt werden können.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Einnahmen und Zahlungen",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "Was ist Bitcoin?",
+          "anchor": "what-is-bitcoin",
+          "body": "<i class=\"fab fa-bitcoin\"></i> Bitcoin ist digitales Peer-to-Peer-Geld, das ohne Dritte wie Banken oder Kreditkarten funktioniert. Weitere Informationen findest du unter <a href=\"https://bitcoin.org/\">Bitcoin.org</a>.",
+          "topics": []
+        },
+        {
+          "heading": "Was ist das Lightning-Network?",
+          "anchor": "what-is-lightning",
+          "body": "Das <i class=\"fas fa-bolt\"></i> Lightning Network ist ein sicheres Echtzeitsystem zur Übertragung sehr kleiner Bitcoin-Beträge (Mikrozahlungen). Normale On-Chain-Bitcoin-Transaktionen können hohe Gebühren und lange Bestätigungszeiten haben. Lightning Network ermöglicht sofortige Bitcoin-Bestätigungen und extrem niedrige Gebühren (weniger als einen Cent). Das macht es perfekt für Mikrotasks und der Grund, warum <i>Microlancer.io</i> die Verwendung von Lightning Network-Transaktionen für Bitcoin unterstützt.",
+          "topics": []
+        },
+        {
+          "heading": "Gibt es ein Minimum, das ich verdienen muss, um abheben zu können?",
+          "anchor": "min-withdraw",
+          "body": "Nein, es gibt keinen Mindestverdienst, den Sie abheben müssen. Du kannst kleine Summen, wie nur 1 Satoshi abheben.",
+          "topics": []
+        },
+        {
+          "heading": "Fallen beim Abheben Gebühren an?",
+          "anchor": "fee-withdraw",
+          "body": "Nein, beim Abheben fallen keine Gebühren an. Beachte jedoch, dass das Erstellen und Schließen von Kanälen zum Abschluss On-Chain-Gebühren kosten kann, die vom Bitcoin-Netzwerk erhoben werden.",
+          "topics": []
+        },
+        {
+          "heading": "Wie hebe ich meine Bitcoin/Satoshis ab?",
+          "anchor": "withdraw-how",
+          "body": "Um deine Einnahmen abzuheben, gehe einfach auf die Abhebungsseite deines Kontos. Du musst eine sogenannte <i>Lightning-Rechnung</i> bereitstellen, die von deiner Wallet-Software generiert wird. Wenn du die Invoice (Rechnung) an das System sendest, wird sie dir Ihnen ausgezahlt und dein Guthaben sollte in deiner Wallet erscheinen.",
+          "topics": []
+        },
+        {
+          "heading": "Was ist LNURL-Withdraw?",
+          "anchor": "withdraw-lnurl",
+          "body": "LNURL-Auszahlung ist eine Funktion, die auf <a href=\"https://github.com/fiatjaf/awesome-lnurl#wallets\" target=\"_blank\">unterstützten Lightning Wallets</a> verfügbar ist und die Auszahlung vereinfacht den Prozess. Du kannst ohne Kopieren und Einfügen von Invoices abheben, indem du einfach den QR-Code scannen oder auf die Schaltfläche „In Wallet öffnen“ klickst.",
+          "topics": []
+        },
+        {
+          "heading": "Wie bezahle ich eine Lightning-Invoice?",
+          "anchor": "how-to-pay",
+          "body": "Um eine Bitcoin-Lightning-Rechnung zu bezahlen, benötigst du eine Bitcoin-Wallet, die das Lightning-Netzwerk unterstützt. Es ist eine neue Technologie, aber es gibt mehrere Beta-Wallet-Optionen (siehe nächste Frage). Sobald du eine Wallet hast, musst du entweder die LN-Invoice in die Brieftasche einfügen, den QR-Code der LN-Invoice scannen oder auf die Schaltfläche „In Wallet öffnen“ klicken. Wenn du Fragen oder Probleme mit der Zahlung hast, wende dich bitte an den Support (Live-Chat, Discord oder E-Mail).",
+          "topics": []
+        },
+        {
+          "heading": "Welche Wallet soll ich verwenden?",
+          "anchor": "bitcoin-wallet",
+          "body": "Es gibt viele verschiedene Wallets da draußen, aber Lightning Network ist eine ziemlich neue Technologie, daher befinden sich viele von ihnen noch in der Beta-Phase. Wenn du Android verwendest, empfehlen wir die Verwendung von <a href=\"https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en_US\">Eclair< /a> oder <a href=\"http://lightning-wallet.com\">BLW</a>. Eine große Liste von Wallets findest du unter <a href=\"https://lightningnetworkstores.com/wallets\">lightningnetworkstores.com/wallets</a> und <a href=\"https://zigzag.io /#/wallets\">zigzag.io/#/wallets</a>. Achte darauf, MAINNET-Wallets für die Verwendung mit Microlancer zu wählen. Recherchiere und probiere sie auf eigene Gefahr aus!",
+          "topics": []
+        },
+        {
+          "heading": "Was ist, wenn ich On-Chain-Bitcoin anstelle eines Lightning Network-Guthabens möchte?",
+          "anchor": "swap-btc-ln",
+          "body": "Es gibt mehrere Dienste, die dir helfen, das Lightning Network-Guthaben auf Microlancer in On-Chain-Bitcoin umzuwandeln. Sie sind normalerweise mit verschiedenen Gebühren verbunden. Bitte besuche <a href=\"https://zigzag.io/\">ZigZag.io</a> und <a href=\"https://boltz.exchange\">Boltz Exchange</a> . Recherchiere und probiere sie auf eigene Gefahr aus!",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Kategoriemitteilungen",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "Was ist ein Favorit?",
+          "anchor": "favorite",
+          "body": "Du kannst jede Kategorie als Favorit markieren, indem du auf das Sternsymbol neben dem Kategorienamen klicken. Wenn eine neue Task veröffentlicht wird, die zu einem deiner Favoriten passt, wirst du sofort benachrichtigt. So hast du eine bessere Chance, schnell ein Angebot abzugeben.",
+          "topics": []
+        },
+        {
+          "heading": "Wie entferne ich einen Favoriten?",
+          "anchor": "remove-favorite",
+          "body": "Um einen Favoriten zu entfernen und keine Benachrichtigungen mehr zu erhalten, gehe einfach zum Themennamen und deaktiviere das Sternsymbol.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Mehrfacherfüllung",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "Was ist eine wiederholbare Task?",
+          "anchor": "repeatable",
+          "body": "Wenn eine Task mehrfach erfüllt werden kann, kann sie als wiederholbare Task erstellt werden (unter Weitere Optionen). Dies bedeutet, dass die Task auch nach Annahme eines Angebots für Angebote verfügbar bleibt.",
+          "topics": []
+        },
+        {
+          "heading": "Wie höre ich auf, Angebote für meine wiederholbare Task zu erhalten?",
+          "anchor": "stop-repeatable",
+          "body": "Wenn du aktive Angebote hast (Angebote in Bearbeitung), kannst du deine Task nicht schließen, aber du kannst sie ausblenden. Sobald es ausgeblendet ist, erhälst du keine neuen Angebote mehr für deine Task. Sobald alle laufenden Angebote abgeschlossen sind, kannst du die Task schließen.",
+          "topics": []
+        },
+        {
+          "heading": "Was ist eine pro Benutzer wiederholbare Task?",
+          "amchor": "repeatable-per-user",
+          "body": "Wenn eine Task pro Benutzer wiederholbar ist, bedeutet dies, dass sie mehrmals erfüllt werden kann, aber nur einmal pro eindeutigem Benutzer im System. Dies ist in Situationen nützlich, in denen du nicht möchtest, dass derselbe Benutzer deine Task immer wieder erfüllt.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Boosts",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "Was ist ein Boost?",
+          "anchor": "what-is-boost",
+          "body": "Du kannst deine Tasklisten (angezeigt unter <i>Weitere Tasknoptionen</i> auf der Taskseite) boosten, damit deine Liste auf den Listenseiten höher angezeigt wird.",
+          "topics": []
+        },
+        {
+          "heading": "Wie werden verstärkte Einträge geordnet/sortiert?",
+          "anchor": "boost-sorting",
+          "body": "Die Auflistungen werden zuerst nach dem Boost-Betrag geordnet, und für alle Auflistungen, die an den Boost-Betrag gebunden sind (einschließlich nicht geboosteter Auflistungen), werden sie nach der letzten Aktivität geordnet. Dein Boost gilt für jede Kategorie oder jedes Suchergebnis. Selbst wenn du also nicht ganz oben auf der Titelseite aufgeführt wirst, kannst du in Unterkategorien ganz oben aufgeführt werden.",
+          "topics": []
+        },
+        {
+          "heading": "Wie viel sollte ich boosten?",
+          "anchor": "boost-amount",
+          "body": "Du solltest die Menge erhöhen, mit der du dich wohlfühlst. Beachten Sie, dass dieser Betrag nicht mit dem Taskpreis zusammenhängt und der Boost-Betrag nicht vom Tasker verdient wird. Du kannst entscheiden, wie viel du erhöhen möchtest, indem du den Boost-Betrag anderer Angebote vergleichst.",
+          "topics": []
+        },
+        {
+          "heading": "Wie lange halten Boosts an?",
+          "anchor": "boost-time",
+          "body": "Boosts verfallen 30 Tage nach dem Boost-Datum. Wenn du mehr als einen Boost hast, ist jeder Betrag 30 Tage lang gültig, beginnend mit dem jeweiligen Boost-Datum.",
+          "topics": []
+        },
+        {
+          "heading": "Wie überprüfe ich den Boost-Betrag anderer Angebote?",
+          "anchor": "boost-check",
+          "body": "Du kannst den Boostbetrag überprüfen, indem du den Mauszeiger über das Raketensymbol auf der Liste bewegst <i class=\"fa fa-rocket\" style=\"color:orange\" title=\"Diese Listung ist mit 200 sat(s) geboosted\"> </i> ",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "heading": "Affiliate Programm",
+      "anchor": "",
+      "body": "",
+      "topics": [
+        {
+          "heading": "Gibt es ein Microlancer.io-Affiliate-Programm?",
+          "anchor": "affiliates",
+          "body": "Derzeit gibt es kein Partnerprogramm. Wir werden vielleicht in Zukunft eine haben, aber die Herausforderung besteht darin, dass die Gebühren auf der Website so niedrig sind, dass es für Affiliates nicht viel Verdienstpotenzial gibt.",
+          "topics": []
+        }
+      ]
+    }
+  ]

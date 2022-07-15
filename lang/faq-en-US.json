@@ -239,39 +239,9 @@
       "body": "",
       "topics": [
         {
-          "heading": "What is the Microlancer.io Affiliate Program?",
+          "heading": "Is there a Microlancer.io Affiliate Program?",
           "anchor": "affiliates",
-          "body": "You can earn Bitcoin as affiliate by referring users to the site.",
-          "topics": []
-        },
-        {
-          "heading": "How much can I earn?",
-          "anchor": "affiliate-earnings",
-          "body": "(Updated 5/5/19) You will receive 35% of the Microlancer fees collected on any escrow-based task that is completed by your referral. If you referred both the asker and tasker for a given task, you will earn for both referrals (35% from asker referral, 35% from tasker referral).",
-          "topics": []
-        },
-        {
-          "heading": "How long will I be able to earn from my referrals?",
-          "anchor": "affiliate-timelimit",
-          "body": "The affiliate cookie lasts for 90 days. For task completion earnings, you will earn your affiliate commissions for every completed task (as asker or tasker) within 90 days of their signup date.",
-          "topics": []
-        },
-        {
-          "heading": "Will I receive commissions from my referral's referrals (downstream)?",
-          "anchor": "affiliate-downstream",
-          "body": "Sorry, no. We are not doing a MLM-style referral program.",
-          "topics": []
-        },
-        {
-          "heading": "Are there any other limitations?",
-          "anchor": "affiliate-limitations",
-          "body": "By participating in the affiliate program, you agree to the affiliate terms. You will not engage in spam marketing, or fraudulent signups (such as bots, scripts, or otherwise illegitimate users). Your affiliate status may be revoked at any time (banned) for any reason at our discretion. Do not post affiliate links where they are not welcome! Terms of the affiliate program are subject to change at any time.",
-          "topics": []
-        },
-        {
-          "heading": "How do I signup as an affiliate?",
-          "anchor": "affiliate-signup",
-          "body": "If you have an account on Microlancer, you can start right away. Simply grab your affiliate link from the top of your account page.",
+          "body": "Currently there is no affiliate program. We may have one in the future, but the challenge is that fees on the site are so low that there is not much earning potential for affiliates.",
           "topics": []
         }
       ]
