@@ -1,6 +1,6 @@
 Félicitations, vous avez reçu un pourboire ! Qui n'aime pas le Bitcoin gratuit ?
 
-Montant : {{amount}} assis
+Montant : {{amount}} sats
 
 Conseil de : {{fromUsername}}
 Message:
