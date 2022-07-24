@@ -1,17 +1,17 @@
-{{byUsername}} has submitted a review regarding the following post.
+{{byUsername}} a soumis un avis concernant le message suivant.
 
-Post: {{postTitle}}
+Message : {{postTitle}}
 
-Review from: {{byUsername}}
-Feedback: 
+Avis de : {{byUsername}}
+Retour d'information:
 
-{{feedback}}
+{{retour d'information}}
 
-Rating:
+Évaluation:
 
-{{stars}} stars
+{{étoiles}} étoiles
 
-Visit your listing here:
+Visitez votre annonce ici :
 {{postLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

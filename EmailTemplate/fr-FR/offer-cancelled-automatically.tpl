@@ -1,19 +1,19 @@
-An offer has been canceled automatically after 5 days without response.
-If escrow was used, the funds have been refunded to the task owner.
+Une offre a été automatiquement annulée après 5 jours sans réponse.
+Si l'entiercement a été utilisé, les fonds ont été remboursés au propriétaire de la tâche.
 
-Post: {{postTitle}}
+Message : {{postTitle}}
 
-Offer from: {{offerUsername}}
-Offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of asking price)
+Offre de : {{offerUsername}}
+Montant de l'offre : {{offerAmount}} satoshi ({{offerPercent}} % du prix demandé)
 
 Message:
 
 {{message}}
 
-No further action is needed at this time.
+Aucune autre action n'est nécessaire pour le moment.
 
-Better luck on future tasks!
+Meilleure chance pour les tâches futures !
 
 {{postLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

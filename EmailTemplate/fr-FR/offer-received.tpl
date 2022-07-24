@@ -1,18 +1,18 @@
-Your post has received an offer!
+Votre message a reçu une offre !
 
-Post: {{postTitle}}
+Message : {{postTitle}}
 
-Offer from: {{offerUsername}}
-Offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of your asking price)
+Offre de : {{offerUsername}}
+Montant de l'offre : {{offerAmount}} satoshi ({{offerPercent}} % de votre prix demandé)
 Message:
 
 {{message}}
 
-To accept/reject the offer, please select an option
-on your listing page:
+Pour accepter/refuser l'offre, veuillez sélectionner une option
+sur votre page d'annonce :
 
 {{postLink}}
 
-Tip: By responding quickly, your reputation score will go up.
+Conseil : en répondant rapidement, votre score de réputation augmentera.
 
-Sent at {{date}}
+Envoyé à {{date}}

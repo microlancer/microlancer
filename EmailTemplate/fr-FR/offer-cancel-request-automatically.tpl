@@ -1,14 +1,14 @@
-Due to inactivity for 8 weeks, an offer has been automatically been marked to be canceled, rather than completed.
+En raison d'une inactivité de 8 semaines, une offre a été automatiquement marquée comme étant annulée, plutôt que complétée.
 
-For escrow tasks, you have 5 days to open a dispute by contacting support. Be sure you understand the reason for cancellation, and agree to it. If your work is already been started or completed, you have the right to open a dispute and request for arbitration. If a dispute is not opened within 5 days, the cancellation will automatically be accepted and any funds in escrow will be returned to the task owner.
+Pour les tâches d'entiercement, vous disposez de 5 jours pour ouvrir un litige en contactant le support. Assurez-vous de comprendre la raison de l'annulation et acceptez-la. Si votre travail est déjà commencé ou terminé, vous avez le droit d'ouvrir un litige et de demander un arbitrage. Si un litige n'est pas ouvert dans les 5 jours, l'annulation sera automatiquement acceptée et tous les fonds bloqués seront restitués au propriétaire de la tâche.
 
-For non-escrow tasks, there is no dispute arbitration.
+Pour les tâches non fiduciaires, il n'y a pas d'arbitrage des différends.
 
-Post: {{postTitle}}
-Link to post: {{postLink}}
+Message : {{postTitle}}
+Lien vers la publication : {{postLink}}
 
-Offer from: {{offerUsername}}
-Offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of asking price)
+Offre de : {{offerUsername}}
+Montant de l'offre : {{offerAmount}} satoshi ({{offerPercent}} % du prix demandé)
 
 Message:
 
@@ -16,10 +16,10 @@ Message:
 
 --------------------------------------------------
 
-If you are OK with cancelling this task, simply click the "Approve cancellation" button on the offer page. Otherwise, please open a new support ticket by contacting Microlancer.io at {{contactLink}} to let us help arbitrate the issue.
+Si vous acceptez d'annuler cette tâche, cliquez simplement sur le bouton "Approuver l'annulation" sur la page de l'offre. Sinon, veuillez ouvrir un nouveau ticket d'assistance en contactant Microlancer.io à {{contactLink}} pour nous aider à arbitrer le problème.
 
-Better luck on future tasks!
+Meilleure chance pour les tâches futures !
 
 {{postLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

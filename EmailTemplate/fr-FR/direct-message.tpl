@@ -1,11 +1,11 @@
-A message has been sent to you.
+Un message vous a été envoyé.
 
-Message from: {{fromUsername}}
-Message: 
+Message de : {{fromUsername}}
+Message:
 
 {{message}}
 
-To reply, visit their profile here:
+Pour répondre, visitez leur profil ici :
 {{profileLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

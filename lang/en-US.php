@@ -126,7 +126,7 @@ return [
         "email.subject.user.sent.direct.message" => "User %username sent a direct message",
         "email.subject.offer.accepted" => "Your offer to %title has been accepted!",
         "email.subject.offer.modification.accepted" => "Your modification to the offer %title has been accepted!",
-        "email.subject.offer.modification.declined" => "Your modification to the offer %title has been declined.'",
+        "email.subject.offer.modification.declined" => "Your modification to the offer %title has been declined.",
         "email.subject.offer.declined" => "Your offer to %title has been declined.",
         "email.subject.confirm.work.delivered" => "Please confirm the work has been delivered for %title",
         "email.info.once.confirmed.escrow.released" => "Once you have confirmed it, the funds in escrow will be released.",

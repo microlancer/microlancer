@@ -1,16 +1,16 @@
-Congratulations, your offer was accepted!
+Félicitations, votre offre a été acceptée !
 
-Post: {{postTitle}}
-Your offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of your asking price)
+Message : {{postTitle}}
+Montant de votre offre : {{offerAmount}} satoshi ({{offerPercent}} % de votre prix demandé)
 Message:
 
 {{message}}
 
-Please complete the task as requested.
+Veuillez terminer la tâche comme demandé.
 
-When you have finished the task and delivered it to them, please mark
-the task as completed on the listing page.
+Lorsque vous avez terminé la tâche et que vous la leur avez remise, veuillez marquer
+la tâche telle qu'elle est terminée sur la page de liste.
 
 {{postLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

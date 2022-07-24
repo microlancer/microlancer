@@ -1,6 +1,5 @@
-
-Please reset your password by clicking the link below:
+Veuillez réinitialiser votre mot de passe en cliquant sur le lien ci-dessous :
 
 {{passwordResetLink}}
 
-If you did not request this reset, please ignore this email.
+Si vous n'avez pas demandé cette réinitialisation, veuillez ignorer cet e-mail.

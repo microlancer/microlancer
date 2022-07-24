@@ -1,8 +1,8 @@
-The modification to your offer was accepted!
+La modification de votre offre a été acceptée !
 
-Post: {{postTitle}}
+Message : {{postTitle}}
 
-New offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of your asking price)
+Nouveau montant de l'offre : {{offerAmount}} satoshi ({{offerPercent}} % de votre prix demandé)
 
 Message:
 
@@ -10,4 +10,4 @@ Message:
 
 {{postLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

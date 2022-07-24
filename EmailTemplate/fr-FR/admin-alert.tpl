@@ -1,3 +1,3 @@
-This is an admin alert.
+Il s'agit d'une alerte d'administration.
 
 {{message}}

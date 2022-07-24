@@ -1,13 +1,13 @@
-A message has been sent to you regarding the following post.
+Un message vous a été envoyé concernant le message suivant.
 
-Post: {{postTitle}}
+Message : {{postTitle}}
 
-Message from: {{fromUsername}}
-Message: 
+Message de : {{fromUsername}}
+Message:
 
 {{message}}
 
-To reply, visit your listing here:
+Pour répondre, visitez votre fiche ici :
 {{postLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

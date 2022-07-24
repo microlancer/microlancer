@@ -1,13 +1,13 @@
-Congratulations, you received a tip! Who doesn't like free Bitcoin?
+Félicitations, vous avez reçu un pourboire ! Qui n'aime pas le Bitcoin gratuit ?
 
-Amount: {{amount}} sat
+Montant : {{amount}} assis
 
-Tip from: {{fromUsername}}
-Message: 
+Conseil de : {{fromUsername}}
+Message:
 
 {{message}}
 
-To withdraw, visit your withdrawal page here:
-{{withdrawLink}}
+Pour retirer, visitez votre page de retrait ici :
+{{retirerLien}}
 
-Sent at {{date}}
+Envoyé à {{date}}

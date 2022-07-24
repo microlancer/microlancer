@@ -1,8 +1,8 @@
-Sorry, the modification to your offer was declined.
+Désolé, la modification de votre offre a été refusée.
 
-Post: {{postTitle}}
+Message : {{postTitle}}
 
-Current offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of your asking price)
+Montant de l'offre actuelle : {{offerAmount}} satoshi ({{offerPercent}} % de votre prix demandé)
 
 Message:
 
@@ -10,4 +10,4 @@ Message:
 
 {{postLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

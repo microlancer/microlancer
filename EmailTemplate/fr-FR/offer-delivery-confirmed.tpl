@@ -1,12 +1,12 @@
-Your task delivery has been confirmed!
-{{escrowReleased}}
+La livraison de votre tâche a été confirmée !
+{{engagement libéré}}
 
-Post: {{postTitle}}
-Offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of your asking price)
+Message : {{postTitle}}
+Montant de l'offre : {{offerAmount}} satoshi ({{offerPercent}} % de votre prix demandé)
 Message:
 
 {{message}}
 
 {{postLink}}
 
-Sent at {{date}}
+Envoyé à {{date}}

@@ -1,10 +1,10 @@
-Unfortunately your offer was declined.
+Malheureusement, votre offre a été refusée.
 
-Post: {{postTitle}}
-Link: {{postLink}}
-Your offer amount: {{offerAmount}} satoshi ({{offerPercent}}% of your asking price)
-Reason:
+Message : {{postTitle}}
+Lien : {{postLink}}
+Montant de votre offre : {{offerAmount}} satoshi ({{offerPercent}} % de votre prix demandé)
+Raison:
 
 {{message}}
 
-Sent at {{date}}
+Envoyé à {{date}}

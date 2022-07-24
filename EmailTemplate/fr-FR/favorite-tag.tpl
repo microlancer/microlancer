@@ -1,16 +1,16 @@
-A new task has just been listed in a category you're following! 
+Une nouvelle tâche vient d'être répertoriée dans une catégorie que vous suivez !
 
-Post: {{postTitle}}
+Message : {{postTitle}}
 
-Task: 
+Tâche:
 
 {{postDescription}}
 
-Amount: {{postAmount}} satoshi
+Montant : {{postAmount}} satoshi
 
-Place an offer on this task here: {{postLink}}
+Placez une offre sur cette tâche ici : {{postLink}}
 
-To stop receiving emails, simply un-favorite ("un-star") the categories for
-which you no longer wish to receive email notifications.
+Pour ne plus recevoir d'e-mails, il vous suffit de supprimer les favoris ("désactiver") les catégories pour
+dont vous ne souhaitez plus recevoir de notifications par e-mail.
 
-Sent at {{date}}
+Envoyé à {{date}}

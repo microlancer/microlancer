@@ -1,197 +1,197 @@
 [
     {
-      "heading": "What is Microlancer.io?",
+      "heading": "Qu'est-ce que Microlancer.io ?",
       "anchor": "what-is-this",
-      "body": "<i>Microlancer.io</i> is a way to pay or get paid doing small tasks, or <i>microtasks</i>, to earn <a href=\"https://bitcoin.org\">Bitcoin</a> - a digital currency. Bitcoin can be exchanged for US dollars, Euros, and many other national currencies.",
+      "body": "<i>Microlancer.io</i> est un moyen de payer ou d'être payé en effectuant de petites tâches, ou <i>microtâches</i>, pour gagner <a href=\"https://bitcoin.org\">Bitcoin</a> - une monnaie numérique. Le bitcoin peut être échangé contre des dollars américains, des euros et de nombreuses autres devises nationales.",
       "topics": []
     },
     {
-      "heading": "Basic usage",
+      "heading": "Utilisation de base",
       "anchor": "usage",
       "body": "",
       "topics": [
         {
-          "heading": "I see a task I can do. How do I start?",
+          "heading": "Je vois une tâche que je peux faire. Comment commencer ?",
           "anchor": "how-to-get-started",
-          "body": "To perform a task, make an offer on the listing page. You can negotiate a higher payment (or even lower, if you're willing!) than the one being asked. You'll be notified if it is accepted or declined. If it is accepted, payment is in escrow and you can go ahead and perform the task!",
+          "body": "Pour effectuer une tâche, faites une offre sur la page de liste. Vous pouvez négocier un paiement plus élevé (ou même inférieur, si vous êtes d'accord !) que celui demandé. Vous serez averti s'il est accepté ou refusé. S'il est accepté, le paiement est bloqué et vous pouvez continuer et effectuer la tâche !",
           "topics": []
         },
         {
-          "heading": "I finished my task, now what?",
+          "heading": "J'ai terminé ma tâche, et maintenant ?",
           "anchor": "task-complete",
-          "body": "Back on the listing page, mark the task as complete. This will notify the asker, and they will verify your work. If it's valid, they will release the payment. You can then withdraw your earnings!",
+          "body": "De retour sur la page de liste, marquez la tâche comme terminée. Cela informera le demandeur et il vérifiera votre travail. S'il est valide, ils débloqueront le paiement. Vous pouvez alors retirer vos gains !",
           "topics": []
         },
         {
-          "heading": "I need something done. How do I post a task?",
+          "heading": "J'ai besoin de faire quelque chose. Comment publier une tâche ?",
           "anchor": "create-task",
-          "body": "Go to the new task page, and submit the task you wish to have done. Be sure to provide a good set of tags to help people find your task. If anyone is subscribed to a tag, they will be notified immediately of your new task.",
+          "body": "Accédez à la nouvelle page de tâche et soumettez la tâche que vous souhaitez effectuer. Assurez-vous de fournir un bon ensemble de balises pour aider les gens à trouver votre tâche. Si quelqu'un est abonné à un tag, il sera immédiatement informé de votre nouvelle tâche.",
           "topics": []
         },
         {
-          "heading": "I'm disagreeing on a task and not getting paid. What should I do?",
+          "heading": "Je suis en désaccord sur une tâche et je ne suis pas payé. Que devrais-je faire?",
           "anchor": "dispute",
-          "body": "If there is any dispute, please contact support immediately. We will determine if the work was done and decide how the funds in escrow shall be divided. All decisions made by Microlancer.io are final, per the terms and conditions agreement.",
+          "body": "En cas de litige, veuillez contacter l'assistance immédiatement. Nous déterminerons si le travail a été fait et déciderons comment les fonds en séquestre seront divisés. Toutes les décisions prises par Microlancer.io sont définitives, conformément aux termes et conditions de l'accord.",
           "topics": []
         },
         {
-          "heading": "What kinds of tasks can I post here?",
+          "heading": "Quels types de tâches puis-je publier ici ?",
           "anchor": "kind-of-tasks",
-          "body": "You can post any kind of task, question, or any kind of request on Microlancer.io. The tasks can be very tiny (micro) or large-sized such as contract projects. But, we do encourage breaking up large projects into smaller subtasks to make it easy for multiple people to work on them! It's up to you how you want to use Microlancer.io!",
+          "body": "Vous pouvez publier tout type de tâche, question ou tout type de demande sur Microlancer.io. Les tâches peuvent être très petites (micro) ou de grande taille, comme les projets contractuels. Mais, nous encourageons à diviser les grands projets en sous-tâches plus petites pour faciliter le travail de plusieurs personnes ! C'est à vous de décider comment vous souhaitez utiliser Microlancer.io !",
           "topics": []
         },
         {
-          "heading": "How does standard escrow work?",
+          "heading": "Comment fonctionne l'entiercement standard ?",
           "anchor": "standard-escrow",
-          "body": "Standard escrow protects both the asker, and tasker. Tasks secured by standard escrow are protected by collecting the funds for payout in advance from the asker, before the work is started. <b>It is important to start work only AFTER an offer is accepted!</b> If an offer is accepted, the funds are held by Microlancer.io and only released if the asker accepts the results of the tasker's work OR if there is a dispute. In the case of a dispute, such as the tasker's results not meeting the requirements, or the asker failing to pay on properly delivered results, Microlancer.io will arbitrate and will distribute the funds in escrow in a way deemed suitable by Microlancer.io. The decisions made by Microlancer.io are final. In addition to using escrow, we recommend carefully choosing who to work with based on their reputation and reviews.",
+          "body": "L'entiercement standard protège à la fois le demandeur et l'auteur de la tâche. Les tâches sécurisées par un séquestre standard sont protégées en collectant les fonds pour un paiement à l'avance auprès du demandeur, avant le début des travaux. <b>Il est important de ne commencer à travailler qu'APRÈS qu'une offre ait été acceptée !</b> Si une offre est acceptée, les fonds sont détenus par Microlancer.io et ne sont libérés que si le demandeur accepte les résultats du travail du taskeur OU s'il y a est un différend. En cas de litige, tel que les résultats du taskeur ne répondant pas aux exigences, ou le demandeur ne payant pas les résultats correctement livrés, Microlancer.io arbitrera et distribuera les fonds sous séquestre d'une manière jugée appropriée par Microlancer.io. Les décisions prises par Microlancer.io sont définitives. En plus d'utiliser l'entiercement, nous vous recommandons de choisir soigneusement avec qui travailler en fonction de leur réputation et de leurs avis.",
           "topics": []
         },
         {
-          "heading": "How does a non-escrow peer-to-peer payment work?",
+          "heading": "Comment fonctionne un paiement peer-to-peer sans séquestre ?",
           "anchor": "non-escrow",
-          "body": "Tasks using non-escrow peer-to-peer payment are the responsibility of the asker and tasker to coordinate how payment will happen outside of Microlancer.io. There is risk of non-payment, and in such cases, Microlancer.io will not be able to arbitrate: <b>so participate in non-escrow tasks with great caution!</b> The advantage of non-escrow is that Microlancer.io does not collect any fees from the task.",
+          "body": "Les tâches utilisant le paiement peer-to-peer sans séquestre relèvent de la responsabilité du demandeur et du chargé de coordonner la manière dont le paiement se déroulera en dehors de Microlancer.io. Il y a un risque de non-paiement, et dans de tels cas, Microlancer.io ne pourra pas arbitrer : <b>participez donc aux tâches non séquestres avec beaucoup de prudence !</b> L'avantage du non séquestre est que Microlancer .io ne perçoit aucun frais pour la tâche.",
           "topics": []
         },
         {
-          "heading": "What is an in-proposal offer?",
+          "heading": "Qu'est-ce qu'une offre sur proposition ?",
           "anchor": "what-is-offer-proposed",
-          "body": "A proposed offer is a tasker's proposal to do the task (including a pitch and amount) submitted to an asker. The offer in this state is waiting for a response from the asker to either accept or reject the proposal. It is still in a negotiation phase, and the work should not be started yet.",
+          "body": "Une proposition d'offre est la proposition d'un tasker pour effectuer la tâche (y compris un argumentaire et un montant) soumise à un demandeur. L'offre dans cet état attend une réponse du demandeur pour accepter ou rejeter la proposition. Il est encore en phase de négociation, et les travaux ne devraient pas encore être lancés.",
           "topics": []
         },
         {
-          "heading": "What is a accepted offer?",
+          "heading": "Qu'est-ce qu'une offre acceptée ?",
           "anchor": "what-is-offer-accepted",
-          "body": "An accepted (or work-in-progress) offer has been approved by the asker to go ahead and start working on the task. If the task is using the standard escrow option, the offer is ONLY approved when the asker has sent payment to Microlancer and has 100% funded the escrow. At this point, it is safe for the tasker to begin work. For peer-to-peer (non-escrow) tasks, this does not apply. The offer in this state is waiting for the work to be delivered from the tasker to the asker.",
+          "body": "Une offre acceptée (ou travail en cours) a été approuvée par le demandeur pour aller de l'avant et commencer à travailler sur la tâche. Si la tâche utilise l'option d'entiercement standard, l'offre est UNIQUEMENT approuvée lorsque le demandeur a envoyé le paiement à Microlancer et a financé à 100 % l'entiercement. À ce stade, le chargé de mission peut commencer à travailler en toute sécurité. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état attend que le travail soit livré du donneur d'ordre au demandeur.",
           "topics": []
         },
         {
-          "heading": "What is a delivered offer?",
+          "heading": "Qu'est-ce qu'une offre livrée ?",
           "anchor": "what-is-offer-delivered",
-          "body": "A delivered (or in-review) offer is when the work for the task has been completed by the tasker, following all the steps or instructions. At this point, the tasker should have communicated or submitted the results of the work to the asker. The offer in this state is now waiting for the tasker's work to be verified by the asker.",
+          "body": "Une offre livrée (ou en cours de révision) est lorsque le travail pour la tâche a été terminé par le chargé de mission, en suivant toutes les étapes ou instructions. À ce stade, le chargé de mission doit avoir communiqué ou soumis les résultats du travail au demandeur. L'offre dans cet état attend maintenant que le travail du taskeur soit vérifié par le demandeur.",
           "topics": []
         },
         {
-          "heading": "What is a completed offer?",
+          "heading": "Qu'est-ce qu'une offre complète ?",
           "anchor": "what-is-offer-confirmed",
-          "body": "A completed (or delivery verified) offer is when the results of the work done by the tasker has been verified to be satisfactory to the asker. This step confirms that the work was done per the requirements. If the task is using the standard escrow option, the escrow payment has been released at this point, and the tasker is paid. The funds should now appear in the tasker's account balance for withdrawal. For peer-to-peer (non-escrow) tasks, this does not apply. The offer in this state is ended and closed.",
+          "body": "Une offre complétée (ou de livraison vérifiée) est lorsque les résultats du travail effectué par le chargé de mission ont été vérifiés comme étant satisfaisants pour le demandeur. Cette étape confirme que le travail a été effectué conformément aux exigences. Si la tâche utilise l'option d'entiercement standard, le paiement d'entiercement a été débloqué à ce stade et le tasker est payé. Les fonds devraient maintenant apparaître dans le solde du compte du taskeur pour retrait. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état est terminée et fermée.",
           "topics": []
         }
       ]
     },
     {
-      "heading": "Buying services",
+      "heading": "Services d'achat",
       "anchor": "",
       "body": "",
       "topics": [
         {
-          "heading": "How do I buy/order services?",
+          "heading": "Comment acheter/commander des services ?",
           "anchor": "how-to-buy",
-          "body": "You can buy services by placing an order. When you first place an order, you will need to receive confirmation about the work details from the seller. Once you are satisfied with the plan, you can accept their offer and send payment into escrow. After they deliver the service, you should mark the task as delivered to release payment so they can get paid.",
+          "body": "Vous pouvez acheter des services en passant une commande. Lorsque vous passez une commande pour la première fois, vous devrez recevoir une confirmation des détails du travail de la part du vendeur. Une fois que vous êtes satisfait du plan, vous pouvez accepter leur offre et envoyer le paiement sous séquestre. Une fois qu'ils ont fourni le service, vous devez marquer la tâche comme livrée pour libérer le paiement afin qu'ils puissent être payés.",
           "topics": []
         }
       ]
     },
     {
-      "heading": "Earnings and payments",
+      "heading": "Gains et paiements",
       "anchor": "",
       "body": "",
       "topics": [
         {
-          "heading": "What is Bitcoin?",
+          "heading": "Qu'est-ce que le bitcoin ?",
           "anchor": "what-is-bitcoin",
-          "body": "<i class=\"fab fa-bitcoin\"></i> Bitcoin is peer-to-peer digital money that works without 3rd parties such as banks or credit cards. You can learn more at <a href=\"https://bitcoin.org/\">Bitcoin.org</a>.",
+          "body": "<i class=\"fab fa-bitcoin\"></i> Bitcoin est une monnaie numérique peer-to-peer qui fonctionne sans tiers tels que les banques ou les cartes de crédit. Vous pouvez en savoir plus sur <a href=\"https://bitcoin.org/\">Bitcoin.org</a>.",
           "topics": []
         },
         {
-          "heading": "What is the Lightning Network?",
+          "heading": "Qu'est-ce que le Lightning Network ?",
           "anchor": "what-is-lightning",
-          "body": "The <i class=\"fas fa-bolt\"></i> Lightning Network is a secure, real-time system for transferring very small amounts of Bitcoin (micropayments). Normal on-chain Bitcoin transactions can have high fees and long confirmation times. Lightning Network makes it possible to have instant Bitcoin confirmations and extremely low (less than a penny) fees. That makes it perfect for microtasks, and the reason <i>Microlancer.io</i> supports the use of Lightning Network transactions for Bitcoin.",
+          "body": "Le <i class=\"fas fa-bolt\"></i>Lightning Network est un système sécurisé en temps réel pour transférer de très petites quantités de Bitcoin (micropaiements). Les transactions Bitcoin normales en chaîne peuvent entraîner des frais élevés et de longs délais de confirmation. Lightning Network permet d'avoir des confirmations Bitcoin instantanées et des frais extrêmement bas (moins d'un centime). Cela le rend parfait pour les microtâches, et la raison pour laquelle <i>Microlancer.io</i> prend en charge l'utilisation des transactions Lightning Network pour Bitcoin.",
           "topics": []
         },
         {
-          "heading": "Is there a minimum I need to earn to withdraw?",
+          "heading": "Dois-je gagner un minimum pour pouvoir retirer ?",
           "anchor": "min-withdraw",
-          "body": "No, there is no minimum earnings you need to have to withdraw. You can withdraw as little as 1 satoshi.",
+          "body": "Non, il n'y a pas de revenu minimum que vous devez avoir pour retirer. Vous pouvez retirer aussi peu que 1 satoshi.",
           "topics": []
         },
         {
-          "heading": "Are there any fees to withdraw?",
+          "heading": "Y a-t-il des frais pour retirer ?",
           "anchor": "fee-withdraw",
-          "body": "No, there are no fees when you withdraw. However, be aware that creating and closing channels to finalize may cost on-chain fees charged by the Bitcoin network.",
+          "body": "Non, il n'y a pas de frais lors d'un retrait. Cependant, sachez que la création et la fermeture de canaux à finaliser peuvent entraîner des frais de chaîne facturés par le réseau Bitcoin.",
           "topics": []
         },
         {
-          "heading": "How do I withdraw my Bitcoin?",
+          "heading": "Comment retirer mon Bitcoin ?",
           "anchor": "withdraw-how",
-          "body": "To withdraw your earnings, simply go to the withdrawal page on your account. You will need to provide what is known as a <i>Lightning Invoice</i> which is generated by your wallet software. When you submit the invoice to the system, it will be paid to you and your balance should appear on your wallet.",
+          "body": "Pour retirer vos gains, rendez-vous simplement sur la page de retrait de votre compte. Vous devrez fournir ce que l'on appelle une <i>facture Lightning</i> qui est générée par votre logiciel de portefeuille. Lorsque vous soumettez la facture au système, elle vous sera payée et votre solde devrait apparaître sur votre portefeuille.",
           "topics": []
         },
         {
-          "heading": "What is LNURL-withdraw?",
+          "heading": "Qu'est-ce que LNURL-retrait ?",
           "anchor": "withdraw-lnurl",
-          "body": "LNURL-withdraw is a feature available on <a href=\"https://github.com/fiatjaf/awesome-lnurl#wallets\" target=\"_blank\">supported Lightning wallets</a> that simplify the withdrawing process. You can withdraw without copy-and-pasting invoices, simply by scanning the QR code or clicking the `Open in wallet` button.",
+          "body": "LNURL-withdraw est une fonctionnalité disponible sur les <a href=\"https://github.com/fiatjaf/awesome-lnurl#wallets\" target=\"_blank\">portefeuilles Lightning pris en charge</a> qui simplifient le retrait traiter. Vous pouvez retirer vos factures sans copier-coller, simplement en scannant le code QR ou en cliquant sur le bouton \"Ouvrir dans le portefeuille\".",
           "topics": []
         },
         {
-          "heading": "How do I pay a Lightning invoice?",
+          "heading": "Comment payer une facture Lightning ?",
           "anchor": "how-to-pay",
-          "body": "To pay a Bitcoin lightning invoice, you will need a Bitcoin wallet that supports lightning network. It is a new technology, but there are several beta wallet choices (see the next question). Once you have a wallet, you will need to either paste the LN invoice into the wallet, scan the LN invoice QR code, or click the `Open in wallet` button. If you have any questions or issues with payment, please feel free to contact support (live chat, discord, or email).",
+          "body": "Pour payer une facture Lightning Bitcoin, vous aurez besoin d'un portefeuille Bitcoin prenant en charge le réseau Lightning. C'est une nouvelle technologie, mais il existe plusieurs choix de portefeuille bêta (voir la question suivante). Une fois que vous avez un portefeuille, vous devrez soit coller la facture LN dans le portefeuille, scanner le code QR de la facture LN, ou cliquer sur le bouton \"Ouvrir dans le portefeuille\". Si vous avez des questions ou des problèmes de paiement, n'hésitez pas à contacter l'assistance (chat en direct, discord ou e-mail).",
           "topics": []
         },
         {
-          "heading": "Which wallet should I use?",
+          "heading": "Quel portefeuille dois-je utiliser ?",
           "anchor": "bitcoin-wallet",
-          "body": "There are many different wallets out there, but Lightning Network is fairly new technology so many of them are still in beta. If you're on Android, we recommend using <a href=\"https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en_US\">Eclair</a> or <a href=\"http://lightning-wallet.com\">BLW</a>. A large list of wallets can be found at <a href=\"https://lightningnetworkstores.com/wallets\">lightningnetworkstores.com/wallets</a> and <a href=\"https://zigzag.io/#/wallets\">zigzag.io/#/wallets</a>. Be sure to choose MAINNET wallets for use with Microlancer. Do research, and try them at your own risk!",
+          "body": "Il existe de nombreux portefeuilles différents, mais Lightning Network est une technologie relativement nouvelle, donc beaucoup d'entre eux sont encore en version bêta. Si vous êtes sur Android, nous vous recommandons d'utiliser <a href=\"https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en_US\">Eclair</a> ou <a href=\"https://bluewallet.io/\">BlueWallet</a>. Une grande liste de portefeuilles peut être trouvée sur <a href=\"https://lightningnetworkstores.com/wallets\">lightningnetworkstores.com/wallets</a> et <a href=\"https://zigzag.io /#/wallets\">zigzag.io/#/wallets</a>. Assurez-vous de choisir les portefeuilles MAINNET à utiliser avec Microlancer. Faites des recherches et essayez-les à vos risques et périls!",
           "topics": []
         },
         {
-          "heading": "What if I want on-chain Bitcoin instead of a Lightning Network balance?",
+          "heading": "Et si je veux du Bitcoin en chaîne au lieu d'un solde Lightning Network ?",
           "anchor": "swap-btc-ln",
-          "body": "There are several services out there to help you convert the Lightning Network balance on Microlancer to on-chain Bitcoin. They usually come with various fees. Please check out <a href=\"https://zigzag.io/\">ZigZag.io</a> and <a href=\"https://boltz.exchange\">Boltz Exchange</a>. Do research, and try them at your own risk!",
+          "body": "Il existe plusieurs services pour vous aider à convertir le solde Lightning Network sur Microlancer en Bitcoin en chaîne. Ils viennent généralement avec divers frais. Veuillez consulter <a href=\"https://zigzag.io/\">ZigZag.io</a> et <a href=\"https://boltz.exchange\">Boltz Exchange</a> . Faites des recherches et essayez-les à vos risques et périls!",
           "topics": []
         }
       ]
     },
     {
-      "heading": "Category alerts",
+      "heading": "Alertes de catégorie",
       "anchor": "",
       "body": "",
       "topics": [
         {
-          "heading": "What is a favorite?",
+          "heading": "Qu'est-ce qu'un favori ?",
           "anchor": "favorite",
-          "body": "You can mark any category as a favorite, by clicking the star icon next to the category name. If any new task is posted that matches one of your favorites, you will immediately be notified. This gives you a better chance of submitting an offer quickly.",
+          "body": "Vous pouvez marquer n'importe quelle catégorie comme favorite en cliquant sur l'icône étoile à côté du nom de la catégorie. Si une nouvelle tâche est publiée qui correspond à l'un de vos favoris, vous en serez immédiatement averti. Cela vous donne une meilleure chance de soumettre une offre rapidement.",
           "topics": []
         },
         {
-          "heading": "How do I remove a favorite?",
+          "heading": "Comment supprimer un favori ?",
           "anchor": "remove-favorite",
-          "body": "To remove a favorite and stop receiving alerts, simply go to the topic name and de-select the star icon.",
+          "body": "Pour supprimer un favori et ne plus recevoir d'alertes, accédez simplement au nom du sujet et désélectionnez l'icône étoile.",
           "topics": []
         }
       ]
     },
     {
-      "heading": "Multiple fulfillment",
+      "heading": "Réalisation multiple",
       "anchor": "",
       "body": "",
       "topics": [
         {
-          "heading": "What is a repeatable task?",
+          "heading": "Qu'est-ce qu'une tâche répétable ?",
           "anchor": "repeatable",
-          "body": "If a task can be fulfilled multiple times, it can be created as a repeatable task (under more options). This means that the task will remain available to offers even after an offer is accepted.",
+          "body": "Si une tâche peut être accomplie plusieurs fois, elle peut être créée en tant que tâche répétable (sous plus d'options). Cela signifie que la tâche restera disponible pour les offres même après l'acceptation d'une offre.",
           "topics": []
         },
         {
-          "heading": "How do I stop receiving offers on my repeatable task?",
+          "heading": "Comment arrêter de recevoir des offres sur ma tâche répétable ?",
           "anchor": "stop-repeatable",
-          "body": "If you have active offers (offers in progress), you cannot close your task but you can hide it. Once it's hidden, you will no longer receive any new offers for your task. Once all in-progress offers are completed, then you can choose to close the task.",
+          "body": "Si vous avez des offres actives (offres en cours), vous ne pouvez pas fermer votre tâche mais vous pouvez la masquer. Une fois masqué, vous ne recevrez plus de nouvelles offres pour votre tâche. Une fois que toutes les offres en cours sont terminées, vous pouvez choisir de fermer la tâche.",
           "topics": []
         },
         {
-          "heading": "What is a repeatable per user task?",
+          "heading": "Qu'est-ce qu'une tâche répétable par utilisateur ?",
           "amchor": "repeatable-per-user",
-          "body": "If a task is repeatable per user, that means it can be fulfilled multiple times but only once per unique user in the system. This is useful in situations where you don't want the same user fulfilling your task over and over again.",
+          "body": "Si une tâche est répétable par utilisateur, cela signifie qu'elle peut être exécutée plusieurs fois, mais une seule fois par utilisateur unique dans le système. Ceci est utile dans les situations où vous ne voulez pas que le même utilisateur accomplisse votre tâche encore et encore.",
           "topics": []
         }
       ]
@@ -202,46 +202,46 @@
       "body": "",
       "topics": [
         {
-          "heading": "What is a Boost?",
+          "heading": "Qu'est-ce qu'un boost ?",
           "anchor": "what-is-boost",
-          "body": "You can boost your task listings (shown under <i>More task options</i> on the task page to have your listing shown higher on listing pages.",
+          "body": "Vous pouvez optimiser vos listes de tâches (affichées sous <i>Plus d'options de tâches</i> sur la page des tâches pour que votre liste s'affiche plus haut sur les pages de liste.",
           "topics": []
         },
         {
-          "heading": "How are boosted listings ordered/sorted?",
+          "heading": "Comment les listes boostées sont-elles classées/triées ?",
           "anchor": "boost-sorting",
-          "body": "The listings are ordered by boost amount first, and for any listings tied by boost amount (including unboosted listings) they are ordered by recent activity. Your boost applies to every category or search result, so even if you are not listed high on the front page, you may be listed high on sub-categories.",
+          "body": "Les annonces sont d'abord classées par montant de boost, et pour toutes les annonces liées par un montant de boost (y compris les annonces non boostées), elles sont classées par activité récente. Votre boost s'applique à chaque catégorie ou résultat de recherche, donc même si vous n'êtes pas listé en haut de la page d'accueil, vous pouvez être listé en haut des sous-catégories.",
           "topics": []
         },
         {
-          "heading": "How much should I boost?",
+          "heading": "Combien dois-je booster ?",
           "anchor": "boost-amount",
-          "body": "You should boost the amount you are comforable with. Note, this amount is not related to the task price, and the boost amount is not earned by the tasker. You can decide how much to boost by comparing the boost amount of other listings.",
+          "body": "Vous devriez augmenter la quantité avec laquelle vous êtes à l'aise. Notez que ce montant n'est pas lié au prix de la tâche et que le montant du boost n'est pas gagné par le tasker. Vous pouvez décider du montant à augmenter en comparant le montant de l'augmentation des autres annonces.",
           "topics": []
         },
         {
-          "heading": "How long do boosts last?",
+          "heading": "Combien de temps durent les boosts ?",
           "anchor": "boost-time",
-          "body": "Boosts will expire after 30 days from the boosted date. If you have more than one boost, each amount will be valid for 30 days starting from each individual boost date.",
+          "body": "Les boosts expireront après 30 jours à compter de la date du boost. Si vous avez plus d'un boost, chaque montant sera valable 30 jours à compter de chaque date de boost individuelle.",
           "topics": []
         },
         {
-          "heading": "How do I check the boost amount of other listings?",
+          "heading": "Comment puis-je vérifier le montant du boost des autres annonces ?",
           "anchor": "boost-check",
-          "body": "You can check the boost amount by hovering over the rocket icon <i class=\"fa fa-rocket\" style=\"color:orange\" title=\"This listing is boosted by 200 sat(s)\"></i> on the listing.",
+          "body": "Vous pouvez vérifier le montant du boost en survolant l'icône de la fusée <i class=\"fa fa-rocket\" style=\"color:orange\" title=\"Cette liste est boostée par 200 sat(s)\"> </i> sur la liste.",
           "topics": []
         }
       ]
     },
     {
-      "heading": "Affiliates",
+      "heading": "Affiliées",
       "anchor": "",
       "body": "",
       "topics": [
         {
-          "heading": "Is there a Microlancer.io Affiliate Program?",
+          "heading": "Existe-t-il un programme d'affiliation Microlancer.io ?",
           "anchor": "affiliates",
-          "body": "Currently there is no affiliate program. We may have one in the future, but the challenge is that fees on the site are so low that there is not much earning potential for affiliates.",
+          "body": "Il n'y a actuellement aucun programme d'affiliation. Nous en aurons peut-être un à l'avenir, mais le défi est que les frais sur le site sont si bas qu'il n'y a pas beaucoup de potentiel de revenus pour les affiliés.",
           "topics": []
         }
       ]

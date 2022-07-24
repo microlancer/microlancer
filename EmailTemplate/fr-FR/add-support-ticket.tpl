@@ -1,2 +1,2 @@
-We have received your message and we'll be looking into it and responding as soon as possible.
-Your reference ticket number is {{referenceNumber}}
+Nous avons reçu votre message et nous allons l'examiner et y répondre dans les plus brefs délais.
+Votre numéro de billet de référence est {{referenceNumber}}
