@@ -61,19 +61,19 @@
         {
           "heading": "Qu'est-ce qu'une offre acceptée ?",
           "anchor": "what-is-offer-accepted",
-          "body": "Une offre acceptée (ou travail en cours) a été approuvée par le demandeur pour aller de l'avant et commencer à travailler sur la tâche. Si la tâche utilise l'option d'entiercement standard, l'offre est UNIQUEMENT approuvée lorsque le demandeur a envoyé le paiement à Microlancer et a financé à 100 % l'entiercement. À ce stade, le chargé de mission peut commencer à travailler en toute sécurité. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état attend que le travail soit livré du donneur d'ordre au demandeur.",
+          "body": "Une offre acceptée (ou travail en cours) a été approuvée par le demandeur pour aller de l'avant et commencer à travailler sur la tâche. Si la tâche utilise l'option d'entiercement standard, l'offre est UNIQUEMENT approuvée lorsque le demandeur a envoyé le paiement à Microlancer et a financé à 100 % l'entiercement. À ce stade, l'exécutant peut commencer à travailler en toute sécurité. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état attend que le travail soit livré de l'exécutant au demandeur.",
           "topics": []
         },
         {
           "heading": "Qu'est-ce qu'une offre livrée ?",
           "anchor": "what-is-offer-delivered",
-          "body": "Une offre livrée (ou en cours de révision) est lorsque le travail pour la tâche a été terminé par le chargé de mission, en suivant toutes les étapes ou instructions. À ce stade, le chargé de mission doit avoir communiqué ou soumis les résultats du travail au demandeur. L'offre dans cet état attend maintenant que le travail du chargé de mission soit vérifié par le demandeur.",
+          "body": "Une offre livrée (ou en cours de révision) est lorsque le travail pour la tâche a été terminé par l'exécutant, en suivant toutes les étapes ou instructions. À ce stade, l'exécutant doit avoir communiqué ou soumis les résultats du travail au demandeur. L'offre dans cet état attend maintenant que le travail de l'exécutant soit vérifié par le demandeur.",
           "topics": []
         },
         {
           "heading": "Qu'est-ce qu'une offre complète ?",
           "anchor": "what-is-offer-confirmed",
-          "body": "Une offre complétée (ou de livraison vérifiée) est lorsque les résultats du travail effectué par le chargé de mission ont été vérifiés comme étant satisfaisants pour le demandeur. Cette étape confirme que le travail a été effectué conformément aux exigences. Si la tâche utilise l'option d'entiercement standard, le paiement d'entiercement a été débloqué à ce stade et le chargé de mission est payé. Les fonds devraient maintenant apparaître dans le solde du compte de l'exécutant pour retrait. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état est terminée et fermée.",
+          "body": "Une offre complétée (ou de livraison vérifiée) est lorsque les résultats du travail effectué par l'exécutant ont été vérifiés comme étant satisfaisants pour le demandeur. Cette étape confirme que le travail a été effectué conformément aux exigences. Si la tâche utilise l'option d'entiercement standard, le paiement d'entiercement a été débloqué à ce stade et l'exécutant est payé. Les fonds devraient maintenant apparaître dans le solde du compte de l'exécutant pour retrait. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état est terminée et fermée.",
           "topics": []
         }
       ]
