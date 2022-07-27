@@ -1,7 +1,7 @@
 Congratulazioni, la tua offerta è stata accettata!
 
-Messaggio: {{postTitle}}
-Importo dell'offerta: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
+Titolo: {{postTitle}}
+Importo offerto: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
 Messaggio:
 
 {{message}}
@@ -12,4 +12,4 @@ Quando hai finito e consegnato il compito, per favore segna l'attività come com
 
 {{postLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}

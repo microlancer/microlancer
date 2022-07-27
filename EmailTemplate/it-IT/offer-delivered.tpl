@@ -3,12 +3,12 @@ La tua attività è stata contrassegnata come consegnata! Si prega di verificare
 
 {{onceConfirmed}}
 
-Messaggio: {{postTitle}}
-Importo dell'offerta: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
+Titolo: {{postTitle}}
+Importo offerto: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
 Messaggio:
 
 {{message}}
 
 {{postLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}

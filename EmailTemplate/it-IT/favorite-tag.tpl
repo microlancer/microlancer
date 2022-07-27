@@ -1,4 +1,4 @@
-Un nuovo compito è stato aggiunto in una categoria che segui! 
+Un nuovo annuncio è stato aggiunto in una categoria che segui! 
 
 Titolo: {{postTitle}}
 
@@ -13,4 +13,4 @@ Fai un'offerta per quest'attività da qui: {{postLink}}
 Per interrompere la ricezione delle email, elimina semplicemente i preferiti (deseleziona le stelle) dalle categorie per le quali
 non desideri più ricevere notifiche via email.
 
-Inviato alle {{date}}
+Inviato il {{date}}

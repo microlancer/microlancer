@@ -10,4 +10,4 @@ Messaggio:
 Per rispondere, visualizza il tuo annuncio qui:
 {{postLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}

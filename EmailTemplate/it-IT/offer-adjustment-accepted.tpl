@@ -1,6 +1,6 @@
 La modifica alla tua offerta è stata accettata!
 
-Messaggio: {{postTitle}}
+Titolo: {{postTitle}}
 
 Nuovo importo: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
 
@@ -10,4 +10,4 @@ Messaggio:
 
 {{postLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}

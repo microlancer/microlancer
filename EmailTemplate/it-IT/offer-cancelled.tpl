@@ -1,9 +1,9 @@
 Un'offerta è stata cancellata di comune accordo.
 
-Messaggio: {{postTitle}}
+Titolo: {{postTitle}}
 
 Offerta da: {{offerUsername}}
-Importo dell'offerta: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
+Importo offerto: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
 
 Messaggio:
 
@@ -15,4 +15,4 @@ Buona fortuna per le prossime attività!
 
 {{postLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}
