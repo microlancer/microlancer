@@ -10,7 +10,7 @@ Progess:
 * [x] en-US English (United States)
 * [x] es-MX Español (México)
 * [x] de-DE Deutsch (Deutschland)
-* [ ] fr-FR Français (France)
+* [x] fr-FR Français (France)
 * [ ] it-IT Italiano (Italia)
 * [ ] ja-JP 日本語 (日本)
 * [ ] nb-NO Bokmål (Norsk)
