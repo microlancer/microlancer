@@ -43,37 +43,37 @@
         {
           "heading": "Comment fonctionne l'entiercement standard ?",
           "anchor": "standard-escrow",
-          "body": "L'entiercement standard protège à la fois le demandeur et l'auteur de la tâche. Les tâches sécurisées par un séquestre standard sont protégées en collectant les fonds pour un paiement à l'avance auprès du demandeur, avant le début des travaux. <b>Il est important de ne commencer à travailler qu'APRÈS qu'une offre ait été acceptée !</b> Si une offre est acceptée, les fonds sont détenus par Microlancer.io et ne sont libérés que si le demandeur accepte les résultats du travail du taskeur OU s'il y a est un différend. En cas de litige, tel que les résultats du taskeur ne répondant pas aux exigences, ou le demandeur ne payant pas les résultats correctement livrés, Microlancer.io arbitrera et distribuera les fonds sous séquestre d'une manière jugée appropriée par Microlancer.io. Les décisions prises par Microlancer.io sont définitives. En plus d'utiliser l'entiercement, nous vous recommandons de choisir soigneusement avec qui travailler en fonction de leur réputation et de leurs avis.",
+          "body": "L'entiercement standard protège à la fois le demandeur et l'exécutant de la tâche. Les tâches sécurisées par un séquestre standard sont protégées en collectant les fonds pour un paiement à l'avance auprès du demandeur, avant le début des travaux. <b>Il est important de ne commencer à travailler qu'APRÈS qu'une offre ait été acceptée !</b> Si une offre est acceptée, les fonds sont détenus par Microlancer.io et ne sont libérés que si le demandeur accepte les résultats du travail de l'exécutant OU s'il y a est un différend. En cas de litige, tel que les résultats de l'exécutant ne répondant pas aux exigences, ou le demandeur ne payant pas les résultats correctement livrés, Microlancer.io arbitrera et distribuera les fonds sous séquestre d'une manière jugée appropriée par Microlancer.io. Les décisions prises par Microlancer.io sont définitives. En plus d'utiliser l'entiercement, nous vous recommandons de choisir soigneusement avec qui travailler en fonction de leur réputation et de leurs avis.",
           "topics": []
         },
         {
           "heading": "Comment fonctionne un paiement peer-to-peer sans séquestre ?",
           "anchor": "non-escrow",
-          "body": "Les tâches utilisant le paiement peer-to-peer sans séquestre relèvent de la responsabilité du demandeur et du chargé de coordonner la manière dont le paiement se déroulera en dehors de Microlancer.io. Il y a un risque de non-paiement, et dans de tels cas, Microlancer.io ne pourra pas arbitrer : <b>participez donc aux tâches non séquestres avec beaucoup de prudence !</b> L'avantage du non séquestre est que Microlancer .io ne perçoit aucun frais pour la tâche.",
+          "body": "Les tâches utilisant le paiement peer-to-peer sans séquestre relèvent de la responsabilité du demandeur et de l'exécutant de coordonner la manière dont le paiement se déroulera en dehors de Microlancer.io. Il y a un risque de non-paiement, et dans de tels cas, Microlancer.io ne pourra pas arbitrer : <b>participez donc aux tâches non séquestres avec beaucoup de prudence !</b> L'avantage du non séquestre est que Microlancer .io ne perçoit aucun frais pour la tâche.",
           "topics": []
         },
         {
           "heading": "Qu'est-ce qu'une offre sur proposition ?",
           "anchor": "what-is-offer-proposed",
-          "body": "Une proposition d'offre est la proposition d'un tasker pour effectuer la tâche (y compris un argumentaire et un montant) soumise à un demandeur. L'offre dans cet état attend une réponse du demandeur pour accepter ou rejeter la proposition. Il est encore en phase de négociation, et les travaux ne devraient pas encore être lancés.",
+          "body": "Une proposition d'offre est la proposition d'un exécutant pour effectuer la tâche (y compris un argumentaire et un montant) soumise à un demandeur. L'offre dans cet état attend une réponse du demandeur pour accepter ou rejeter la proposition. Il est encore en phase de négociation, et les travaux ne devraient pas encore être lancés.",
           "topics": []
         },
         {
           "heading": "Qu'est-ce qu'une offre acceptée ?",
           "anchor": "what-is-offer-accepted",
-          "body": "Une offre acceptée (ou travail en cours) a été approuvée par le demandeur pour aller de l'avant et commencer à travailler sur la tâche. Si la tâche utilise l'option d'entiercement standard, l'offre est UNIQUEMENT approuvée lorsque le demandeur a envoyé le paiement à Microlancer et a financé à 100 % l'entiercement. À ce stade, le chargé de mission peut commencer à travailler en toute sécurité. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état attend que le travail soit livré du donneur d'ordre au demandeur.",
+          "body": "Une offre acceptée (ou travail en cours) a été approuvée par le demandeur pour aller de l'avant et commencer à travailler sur la tâche. Si la tâche utilise l'option d'entiercement standard, l'offre est UNIQUEMENT approuvée lorsque le demandeur a envoyé le paiement à Microlancer et a financé à 100 % l'entiercement. À ce stade, l'exécutant peut commencer à travailler en toute sécurité. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état attend que le travail soit livré de l'exécutant au demandeur.",
           "topics": []
         },
         {
           "heading": "Qu'est-ce qu'une offre livrée ?",
           "anchor": "what-is-offer-delivered",
-          "body": "Une offre livrée (ou en cours de révision) est lorsque le travail pour la tâche a été terminé par le chargé de mission, en suivant toutes les étapes ou instructions. À ce stade, le chargé de mission doit avoir communiqué ou soumis les résultats du travail au demandeur. L'offre dans cet état attend maintenant que le travail du taskeur soit vérifié par le demandeur.",
+          "body": "Une offre livrée (ou en cours de révision) est lorsque le travail pour la tâche a été terminé par l'exécutant, en suivant toutes les étapes ou instructions. À ce stade, l'exécutant doit avoir communiqué ou soumis les résultats du travail au demandeur. L'offre dans cet état attend maintenant que le travail de l'exécutant soit vérifié par le demandeur.",
           "topics": []
         },
         {
           "heading": "Qu'est-ce qu'une offre complète ?",
           "anchor": "what-is-offer-confirmed",
-          "body": "Une offre complétée (ou de livraison vérifiée) est lorsque les résultats du travail effectué par le chargé de mission ont été vérifiés comme étant satisfaisants pour le demandeur. Cette étape confirme que le travail a été effectué conformément aux exigences. Si la tâche utilise l'option d'entiercement standard, le paiement d'entiercement a été débloqué à ce stade et le tasker est payé. Les fonds devraient maintenant apparaître dans le solde du compte du taskeur pour retrait. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état est terminée et fermée.",
+          "body": "Une offre complétée (ou de livraison vérifiée) est lorsque les résultats du travail effectué par l'exécutant ont été vérifiés comme étant satisfaisants pour le demandeur. Cette étape confirme que le travail a été effectué conformément aux exigences. Si la tâche utilise l'option d'entiercement standard, le paiement d'entiercement a été débloqué à ce stade et l'exécutant est payé. Les fonds devraient maintenant apparaître dans le solde du compte de l'exécutant pour retrait. Pour les tâches peer-to-peer (non escrow), cela ne s'applique pas. L'offre dans cet état est terminée et fermée.",
           "topics": []
         }
       ]
@@ -216,7 +216,7 @@
         {
           "heading": "Combien dois-je booster ?",
           "anchor": "boost-amount",
-          "body": "Vous devriez augmenter la quantité avec laquelle vous êtes à l'aise. Notez que ce montant n'est pas lié au prix de la tâche et que le montant du boost n'est pas gagné par le tasker. Vous pouvez décider du montant à augmenter en comparant le montant de l'augmentation des autres annonces.",
+          "body": "Vous devriez augmenter la quantité avec laquelle vous êtes à l'aise. Notez que ce montant n'est pas lié au prix de la tâche et que le montant du boost n'est pas gagné par l'exécutant. Vous pouvez décider du montant à augmenter en comparant le montant de l'augmentation des autres annonces.",
           "topics": []
         },
         {
