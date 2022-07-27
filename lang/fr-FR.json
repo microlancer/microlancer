@@ -522,7 +522,7 @@
         "text.whoa.it.looks.like.we.hit.a.snag": "Whoa - On dirait que nous avons frappé un accroc. Veuillez envoyer ce lien URL à% afin que nous puissions résoudre ce problème!",
         "text.withdrawal.via.bitcoin.lightning.network": "Retrait via %icon Bitcoin Lightning Network",
         "text.you.are.not.allowed.to.view.this.resource": "Vous n'êtes pas autorisé à afficher cette ressource. Veuillez vérifier auprès du propriétaire pour être sûr d'avoir la permission.",
-        "text.you.have.an.active.offer.for.this.task": "VOus avez une %offerUrl pour cette tâche.",
+        "text.you.have.an.active.offer.for.this.task": "Vous avez une %offerUrl pour cette tâche.",
         "text.your.browser.is.blocking.notifications.please.allow.it.first": "Votre navigateur bloque les notifications. Veuillez le permettre d'abord (généralement vous pouvez cliquer sur l'icône de cadenas 🔒 sur la barre d'adresse du site Web).",
         "text.how.do.i.sign": "Comment signer? Suivez les mêmes étapes <a target=\"_blank\" href=\"https://lightningnetwork.plus/sign_messages\">Trouvé ici</a> Pour créer un message signé. Ensuite, collez le message signé dans le champ ci-dessous.",
         "text.you.have.verified.your.node": "👍 Félicitations, vous avez vérifié avec succès votre nœud! Si vous souhaitez le supprimer ou le modifier, veuillez envoyer un e-mail à support@microlancer.io, y compris votre nom d'utilisateur et votre ID de nœud (pubkey).",
@@ -591,6 +591,6 @@
         "offer.status.in.dispute": "En conflit",
         "offer.status.offer.declined": "Offre refusée",
         "offer.status.offer.cancelled.with.feedback": "Offre annulée avec commentaire",
-        "offer.status.offer.retracted": "Offre rétracté"
+        "offer.status.offer.retracted": "Offre rétractée"
     }
 }
