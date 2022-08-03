@@ -10,4 +10,4 @@ Messaggio:
 Per prelevare, visita la tua pagina prelievi qui:
 {{withdrawLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}

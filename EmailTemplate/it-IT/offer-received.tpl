@@ -3,7 +3,7 @@ La tua inserzione ha ricevuto un'offerta!
 Titolo: {{postTitle}}
 
 Offerta da: {{offerUsername}}
-Importo dell'offerta: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
+Importo offerto: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
 Message:
 
 {{message}}
@@ -15,4 +15,4 @@ nella pagina della tua inserzione:
 
 Suggerimento: rispondendo rapidamente, la tua reputazione aumenterà.
 
-Inviato alle {{date}}
+Inviato il {{date}}

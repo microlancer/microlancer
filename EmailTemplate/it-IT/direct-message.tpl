@@ -8,4 +8,4 @@ Messaggio:
 Per rispondere, visita il suo profilo da qui:
 {{profileLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}

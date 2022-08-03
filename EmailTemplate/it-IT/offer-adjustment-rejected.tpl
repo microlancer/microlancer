@@ -1,6 +1,6 @@
 Spiacenti, la modifica alla tua offerta è stata rifiutata.
 
-Messaggio: {{postTitle}}
+Titolo: {{postTitle}}
 
 Importo corrente: {{offerAmount}} satoshi ({{offerPercent}}% del prezzo richiesto)
 
@@ -10,4 +10,4 @@ Messaggio:
 
 {{postLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}

@@ -10,4 +10,4 @@ Messaggio:
 Per rispondere, visita la tua inserzione qui:
 {{postLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}

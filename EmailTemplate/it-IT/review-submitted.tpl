@@ -14,4 +14,4 @@ Valutazione:
 Visita il tuo annuncio qui:
 {{postLink}}
 
-Inviato alle {{date}}
+Inviato il {{date}}
