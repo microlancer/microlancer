@@ -524,7 +524,7 @@
         "text.you.are.not.allowed.to.view.this.resource": "Você não tem permissão para visualizar este recurso. Verifique com o proprietário se você tem permissão.",
         "text.you.have.an.active.offer.for.this.task": "Você tem um %offerUrl para esta tarefa.",
         "text.your.browser.is.blocking.notifications.please.allow.it.first": "Seu navegador está bloqueando notificações. Por favor, permita primeiro (geralmente você pode clicar no ícone de cadeado 🔒 na barra de endereço do site). ",
-        "text.how.do.i.sign": "Como faço para assinar? Siga as mesmas etapas <a target=\"_blank\" href=\"https://lightningnetwork.plus/sign_messages\">encontradas aqui< /a> para criar uma mensagem assinada. Em seguida, cole a mensagem assinada no campo abaixo.",
+        "text.how.do.i.sign": "Como faço para assinar? Siga as mesmas etapas <a target=\"_blank\" href=\"https://lightningnetwork.plus/sign_messages\">encontradas aqui</a> para criar uma mensagem assinada. Em seguida, cole a mensagem assinada no campo abaixo.",
         "text.you.have.verified.your.node": "👍 Parabéns, você verificou seu nó com sucesso! Se quiser removê-lo ou alterá-lo, envie um e-mail para support@microlancer.io incluindo seu nome de usuário e nó ID (pubkey).",
         "text.security.level.zero": "Você atualmente não tem nenhum depósito de segurança (nível zero).",
         "text.security.level.bronze": "Seu nível de depósito de segurança atual é bronze.",
