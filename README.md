@@ -15,7 +15,7 @@ Progess:
 * [ ] ja-JP 日本語 (日本)
 * [ ] nb-NO Bokmål (Norsk)
 * [ ] nl-NL Nederlandsk (Nederland)
-* [ ] pt-BR Português (Brasil)
+* [x] pt-BR Português (Brasil)
 * [ ] ru-RU Pусски (России)
 * [ ] uk-UA Yкраїнською (України)
 * [ ] sr-SR Cрпски (Србије)
