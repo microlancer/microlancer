@@ -13,19 +13,19 @@
         {
           "heading": "Vedo un compito che posso svolgere. Come inizio?",
           "anchor": "how-to-get-started",
-          "body": "Per eseguire un'attività comincia col fare un'offerta. Puoi negoziare un pagamento più alto (o anche più basso se vuoi) di quello che ti viene chiesto. Sarai avvisato se viene accettato o rifiutato. Se viene accettato, il pagamento è nel deposito di garanzia e puoi andare avanti e svolgere l'attività!",
+          "body": "Per eseguire un compito comincia col fare un'offerta. Puoi negoziare un pagamento più alto (o anche più basso se vuoi) di quello che ti viene chiesto. Sarai avvisato se viene accettato o rifiutato. Se viene accettato, il pagamento è nel deposito di garanzia e puoi andare avanti e svolgere il compito!",
           "topics": []
         },
         {
           "heading": "Ho finito il mio compito, e adesso?",
           "anchor": "task-complete",
-          "body": "Contrassegna l'attività come completata. Questo avviserà il richiedente che verificherà il tuo lavoro. Se è valido, sbloccherà il pagamento. A questo punto puoi ritirare i tuoi guadagni!",
+          "body": "Contrassegna il compito come completato. Questo avviserà il richiedente che verificherà il tuo lavoro. Se è valido, sbloccherà il pagamento. A questo punto puoi ritirare i tuoi guadagni!",
           "topics": []
         },
         {
-          "heading": "Ho bisogno che venga fatto qualcosa. Come posso pubblicare un'attività?",
+          "heading": "Ho bisogno che venga fatto qualcosa. Come posso pubblicare un compito?",
           "anchor": "create-task",
-          "body": "Vai alla pagina nuova attività e inserisci il compito che desideri venga svolto. Assicurati di fornire un buon set di tag per aiutare le persone a trovare la tua attività. Se qualcuno è iscritto a un tag, verrà immediatamente informato della tua nuova attività.",
+          "body": "Vai alla pagina nuovo compito e inserisci il lavoro che desideri venga svolto. Assicurati di fornire un buon set di tag per aiutare le persone a trovare il tuo compito. Se qualcuno è iscritto a un tag, verrà immediatamente informato del tuo annuncio.",
           "topics": []
         },
         {
@@ -35,45 +35,45 @@
           "topics": []
         },
         {
-          "heading": "Che tipo di attività posso pubblicare qui?",
+          "heading": "Che tipo di compiti posso pubblicare qui?",
           "anchor": "kind-of-tasks",
-          "body": "Puoi pubblicare qualsiasi tipo di attività, domanda o richiesta su Microlancer.io. I compiti possono essere molto piccoli (micro) o di grandi dimensioni come i progetti a contratto. Tuttavia, incoraggiamo la suddivisione dei progetti di grandi dimensioni in sottoattività più piccole per consentire a più persone di lavorarci facilmente! Sta a te decidere come utilizzare Microlancer.io!",
+          "body": "Puoi pubblicare qualsiasi tipo di compito, domanda o richiesta su Microlancer.io. I compiti possono essere molto piccoli (micro) o di grandi dimensioni come i progetti a contratto. Tuttavia, incoraggiamo la suddivisione dei progetti di grandi dimensioni in sottoattività più piccole per consentire a più persone di lavorarci facilmente! Sta a te decidere come utilizzare Microlancer.io!",
           "topics": []
         },
         {
           "heading": "Come funziona il deposito di garanzia?",
           "anchor": "standard-escrow",
-          "body": "Il deposito di garanzia protegge sia il richiedente che l'esecutore. Le attività garantite da un deposito di garanzia sono protette raccogliendo i fondi per il pagamento in anticipo dal richiedente, prima dell'inizio del lavoro. <b>È importante iniziare a lavorare solo DOPO l'accettazione di un'offerta!</b> Se un'offerta viene accettata, i fondi sono detenuti da Microlancer.io e rilasciati solo se il richiedente accetta i risultati del lavoro dell'esecutore OPPURE se c'è una disputa. In caso di controversia, se ad esempio i risultati dell'esecutore che non soddisfano i requisiti, o se il richiedente non vuole pagare i risultati correttamente consegnati, Microlancer.io arbitrerà e distribuirà i fondi del deposito di garanzia in un modo ritenuto appropriato da Microlancer.io. Le decisioni prese da Microlancer.io sono definitive. Oltre ad utilizzare il deposito di garanzia, ti consigliamo di scegliere attentamente con chi lavorare in base alla loro reputazione e recensioni.",
+          "body": "Il deposito di garanzia protegge sia il richiedente che l'esecutore. I compiti garantiti da un deposito di garanzia sono protetti raccogliendo i fondi per il pagamento in anticipo dal richiedente, prima dell'inizio del lavoro. <b>È importante iniziare a lavorare solo DOPO l'accettazione di un'offerta!</b> Se un'offerta viene accettata, i fondi sono detenuti da Microlancer.io e rilasciati solo se il richiedente accetta i risultati del lavoro dell'esecutore OPPURE se c'è una disputa. In caso di controversia, se ad esempio i risultati dell'esecutore che non soddisfano i requisiti, o se il richiedente non vuole pagare i risultati correttamente consegnati, Microlancer.io arbitrerà e distribuirà i fondi del deposito di garanzia in un modo ritenuto appropriato da Microlancer.io. Le decisioni prese da Microlancer.io sono definitive. Oltre ad utilizzare il deposito di garanzia, ti consigliamo di scegliere attentamente con chi lavorare in base alla loro reputazione e recensioni.",
           "topics": []
         },
         {
           "heading": "Come funziona un pagamento peer-to-peer senza deposito di garanzia?",
           "anchor": "non-escrow",
-          "body": "Per le attività che utilizzano il pagamento peer-to-peer senza deposito di garanzia è responsabilità del richiedente e dell'esecutore del compito di coordinare come avverrà il pagamento al di fuori di Microlancer.io. C'è il rischio di mancato pagamento e, in questi casi, Microlancer.io non sarà in grado di arbitrare: <b>partecipa quindi con grande cautela alle attività senza deposito di garanzia!</b> Il vantaggio di non avere il deposito di garanzia è che Microlancer.io non riscuote alcun compenso dall'attività.",
+          "body": "Per i compiti che utilizzano il pagamento peer-to-peer senza deposito di garanzia è responsabilità del richiedente e dell'esecutore del compito di coordinare come avverrà il pagamento al di fuori di Microlancer.io. C'è il rischio di mancato pagamento e, in questi casi, Microlancer.io non sarà in grado di arbitrare: <b>partecipa quindi con grande cautela ai compiti senza deposito di garanzia!</b> Il vantaggio di non avere il deposito di garanzia è che Microlancer.io non riscuote alcun compenso dal compito.",
           "topics": []
         },
         {
           "heading": "Che cos'è un'offerta con proposta?",
           "anchor": "what-is-offer-proposed",
-          "body": "È la proposta di un esecutore per svolgere l'attività (comprende una presentazione e l'importo richiesto) presentata a un richiedente. L'offerta in questo stato è in attesa della risposta da parte del richiedente che deve accettare o rifiutare la proposta. È ancora in una fase di negoziazione e il lavoro non dovrebbe ancora essere avviato.",
+          "body": "È la proposta di un esecutore per svolgere il compito (comprende una presentazione e l'importo richiesto) presentata a un richiedente. L'offerta in questo stato è in attesa della risposta da parte del richiedente che deve accettare o rifiutare la proposta. È ancora in una fase di negoziazione e il lavoro non dovrebbe ancora essere avviato.",
           "topics": []
         },
         {
           "heading": "Che cos'è un'offerta accettata?",
           "anchor": "what-is-offer-accepted",
-          "body": "Un'offerta accettata (o in corso di lavorazione) è stata approvata dal richiedente per andare avanti e iniziare a lavorare sull'attività. Se l'attività utilizza l'opzione con deposito di garanzia, l'offerta viene approvata SOLO quando il richiedente ha inviato il pagamento a Microlancer e l'ha finanziata al 100%. A questo punto, è sicuro per l'esecutore iniziare a lavorare. Per le attività peer-to-peer (senza deposito di garanzia), questo non si applica. L'offerta in questo stato è in attesa che il lavoro venga consegnato dall'esecutore al richiedente.",
+          "body": "Un'offerta accettata (o in corso di lavorazione) è stata approvata dal richiedente per andare avanti e iniziare a lavorare sul compito. Se il compito utilizza l'opzione con deposito di garanzia, l'offerta viene approvata SOLO quando il richiedente ha inviato il pagamento a Microlancer e l'ha finanziata al 100%. A questo punto, è sicuro per l'esecutore iniziare a lavorare. Per i compiti peer-to-peer (senza deposito di garanzia), questo non si applica. L'offerta in questo stato è in attesa che il lavoro venga consegnato dall'esecutore al richiedente.",
           "topics": []
         },
         {
           "heading": "Che cos'è un'offerta consegnata?",
           "anchor": "what-is-offer-delivered",
-          "body": "Un'offerta è consegnata (o in fase di revisione) quando il lavoro per l'attività è stato completato dall'esecutore dell'attività, seguendo tutti i passaggi o le istruzioni. A questo punto, l'incaricato avrebbe dovuto comunicare o presentare i risultati del lavoro al richiedente. L'offerta in questo stato è ora in attesa che il lavoro dell'esecutore venga verificato dal richiedente.",
+          "body": "Un'offerta è consegnata (o in fase di revisione) quando il compito è stato completato dall'esecutore, seguendo tutti i passaggi o le istruzioni. A questo punto, l'incaricato avrebbe dovuto comunicare o presentare i risultati del lavoro al richiedente. L'offerta in questo stato è ora in attesa che il lavoro dell'esecutore venga verificato dal richiedente.",
           "topics": []
         },
         {
           "heading": "Che cos'è un'offerta completata?",
           "anchor": "what-is-offer-confirmed",
-          "body": "Un'offerta è completata (o consegna verificata) quando i risultati del lavoro svolto dall'esecutore sono stati verificati come soddisfacenti dal richiedente. Questo passaggio conferma che il lavoro è stato eseguito secondo i requisiti. Se l'attività utilizza il deposito di garanzia, il pagamento è stato sbloccato a questo punto e l'esecutore viene pagato. I fondi dovrebbero ora apparire nel saldo del conto dell'esecutore per il prelievo. Per le attività peer-to-peer (senza deposito di garanzia), questo non si applica. L'offerta in questo stato è terminata e chiusa.",
+          "body": "Un'offerta è completata (o consegna verificata) quando i risultati del lavoro svolto dall'esecutore sono stati verificati come soddisfacenti dal richiedente. Questo passaggio conferma che il lavoro è stato eseguito secondo i requisiti. Se il compito utilizza il deposito di garanzia, il pagamento è stato sbloccato a questo punto e l'esecutore viene pagato. I fondi dovrebbero ora apparire nel saldo del conto dell'esecutore per il prelievo. Per i compiti peer-to-peer (senza deposito di garanzia), questo non si applica. L'offerta in questo stato è terminata e chiusa.",
           "topics": []
         }
       ]
@@ -86,7 +86,7 @@
         {
           "heading": "Come posso acquistare/ordinare servizi?",
           "anchor": "how-to-buy",
-          "body": "Puoi acquistare servizi effettuando un ordine. Quando effettui un ordine dovrai ricevere i dettagli del lavoro dal venditore. Una volta che sei soddisfatto del piano, puoi accettare l'offerta e inviare il pagamento al deposito di garanzia. Dopo che è stato fornito il servizio, dovresti contrassegnare l'attività come consegnata in modo da sbloccare il pagamento.",
+          "body": "Puoi acquistare servizi effettuando un ordine. Quando effettui un ordine dovrai ricevere i dettagli del lavoro dal venditore. Una volta che sei soddisfatto del piano, puoi accettare l'offerta e inviare il pagamento al deposito di garanzia. Dopo che è stato fornito il servizio, dovresti contrassegnare il compito come consegnato in modo da sbloccare il pagamento.",
           "topics": []
         }
       ]
@@ -160,7 +160,7 @@
         {
           "heading": "Cos'è un preferito?",
           "anchor": "favorite",
-          "body": "Puoi contrassegnare qualsiasi categoria come preferita facendo clic sull'icona a forma di stella accanto al nome della categoria. Se viene pubblicata una nuova attività che corrisponde a una delle tue preferite, verrai immediatamente avvisato. Questo ti darà la possibilità di presentare un'offerta rapidamente.",
+          "body": "Puoi contrassegnare qualsiasi categoria come preferita facendo clic sull'icona a forma di stella accanto al nome della categoria. Se viene pubblicato un nuovo compito su una delle delle tue categorie preferite, verrai immediatamente avvisato. Questo ti darà la possibilità di presentare un'offerta rapidamente.",
           "topics": []
         },
         {
@@ -177,21 +177,21 @@
       "body": "",
       "topics": [
         {
-          "heading": "Che cos'è un'attività ripetibile?",
+          "heading": "Che cos'è un compito ripetibile?",
           "anchor": "repeatable",
-          "body": "Se un'attività può essere eseguita più volte, può essere creata come attività ripetibile (in più opzioni). Ciò significa che l'attività rimarrà disponibile per altre offerte anche dopo l'accettazione della prima.",
+          "body": "Se un compito può essere eseguito più volte, può essere creato come attività ripetibile (in più opzioni). Ciò significa che il compito rimarrà disponibile per altre offerte anche dopo l'accettazione della prima.",
           "topics": []
         },
         {
-          "heading": "Come faccio a non ricevere più offerte sulla mia attività ripetibile?",
+          "heading": "Come faccio a non ricevere più offerte sul mio compito ripetibile?",
           "anchor": "stop-repeatable",
-          "body": "Se hai offerte attive (offerte in corso), non puoi chiudere la tua attività ma puoi nasconderla. Una volta nascosta, non riceverai più nuove offerte per il tuo compito. Una volta completate tutte le offerte in corso, puoi scegliere di chiudere l'attività.",
+          "body": "Se hai offerte attive (offerte in corso), non puoi chiudere il tuo compito ma puoi nasconderlo. Una volta nascosto, non riceverai più nuove offerte per quel compito. Una volta completate tutte le offerte in corso, puoi scegliere di chiuderlo.",
           "topics": []
         },
         {
-          "heading": "Che cos'è un'attività ripetibile per utente?",
+          "heading": "Che cos'è un compito ripetibile per utente?",
           "amchor": "repeatable-per-user",
-          "body": "Se un'attività è ripetibile per utente, significa che può essere eseguita più volte ma solo una volta per utente. Questo è utile in situazioni in cui non vuoi che lo stesso utente svolga il tuo compito più e più volte.",
+          "body": "Se un compito è ripetibile per utente, significa che può essere eseguito più volte ma solo una volta per utente. Questo è utile in situazioni in cui non vuoi che lo stesso utente svolga il tuo compito più e più volte.",
           "topics": []
         }
       ]
@@ -204,7 +204,7 @@
         {
           "heading": "Cos'è un incentivo?",
           "anchor": "what-is-boost",
-          "body": "Puoi incentivare le tue insersioni (andando su <i>Altre opzioni attività</i> nella pagina delle attività per far visualizzare i tuoi annunci prima degli altri.",
+          "body": "Puoi incentivare le tue insersioni (andando su <i>Altre opzioni</i> nella pagina dei compiti per far visualizzare i tuoi annunci prima degli altri.",
           "topics": []
         },
         {
@@ -216,7 +216,7 @@
         {
           "heading": "Quanto dovrei investire in incentivi?",
           "anchor": "boost-amount",
-          "body": "Dovresti incentivare gli annunci con un importo con cui ti senti a tuo agio. Nota, questo importo non è correlato al prezzo dell'attività e l'importo dell'incentivo non viene guadagnato dall'esecutore. Puoi decidere quanto investire confrontando gli incentivi di altre inserzioni.",
+          "body": "Dovresti incentivare gli annunci con un importo con cui ti senti a tuo agio. Nota, questo importo non è correlato al prezzo del compito e l'importo dell'incentivo non viene guadagnato dall'esecutore. Puoi decidere quanto investire confrontando gli incentivi di altre inserzioni.",
           "topics": []
         },
         {

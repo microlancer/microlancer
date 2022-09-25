@@ -1,4 +1,4 @@
-Congratulazioni, hai ricevuto un premio di affiliazione per un'attività completata!
+Congratulazioni, hai ricevuto un premio di affiliazione per un compito completato!
 Grazie per averci aiutato a crescere.
 
 Importo: {{amount}} sat

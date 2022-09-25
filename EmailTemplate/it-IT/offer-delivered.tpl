@@ -1,4 +1,4 @@
-La tua attività è stata contrassegnata come consegnata! Si prega di verificare che il lavoro
+Il tuo compito è stato contrassegnato come consegnato! Si prega di verificare che il lavoro
 è stato ricevuto e di confermarlo qui.
 
 {{onceConfirmed}}
