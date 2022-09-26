@@ -11,7 +11,7 @@ Messaggio:
 
 Non è necessaria alcuna azione da parte vostra.
 
-Buona fortuna per le prossime attività!
+Buona fortuna per i prossimi compiti!
 
 {{postLink}}
 

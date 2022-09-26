@@ -1,4 +1,4 @@
-La consegna dell'attività è stata confermata!
+La consegna del compito è stata confermata!
 {{escrowReleased}}
 
 Titolo: {{postTitle}}

@@ -8,7 +8,7 @@ già iniziato o completato, hai il diritto di aprire una controversia e
 richiedere l'arbitrato. Se una controversia non viene aperta entro 5 giorni, la
 modifica verrà automaticamente rifiutata e rimarrà l'importo originale.
 
-Per le attività senza deposito di garanzia, non è previsto l'arbitrato delle controversie.
+Per i compiti senza deposito di garanzia, non è previsto l'arbitrato delle controversie.
 
 Annuncio: {{postTitle}}
 Collegamento all'annuncio: {{postLink}}
